@@ -182,6 +182,34 @@
     ]
   },
   {
+    "id": "000013",
+    "title": "Ey Allah’ım beni senden ayırma",
+    "composer": "Fatih Koca",
+    "lyricist": "Eşrefoğlu Rûmî",
+    "makam": "Hüseyni",
+    "form": "İlahi",
+    "usul": "Sofyan",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000013/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000013",
+    "title": "Ey Allah’ım beni senden ayırma",
+    "composer": "Fatih Koca",
+    "lyricist": "Eşrefoğlu Rûmî",
+    "makam": "Hüseyni",
+    "form": "İlahi",
+    "usul": "Sofyan",
+    "variation": "V3",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000013/V3/1.webp"
+    ]
+  },
+  {
     "id": "000014",
     "title": "Nice ağlamayım etmeyim feryat",
     "composer": "Fatih Koca",
@@ -207,6 +235,34 @@
     "pageCount": 1,
     "pages": [
       "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000015/v1/1.webp"
+    ]
+  },
+  {
+    "id": "000015",
+    "title": "Yaran n’ola benim halim",
+    "composer": "Fatih Koca",
+    "lyricist": "Yunus Emre",
+    "makam": "Kürdi",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000015/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000015",
+    "title": "Yaran n’ola benim halim",
+    "composer": "Fatih Koca",
+    "lyricist": "Yunus Emre",
+    "makam": "Kürdi",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v3",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000015/v3/1.webp"
     ]
   },
   {
