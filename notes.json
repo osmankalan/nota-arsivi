@@ -3,11 +3,42 @@
     "id": "000001",
     "title": "Cananım Var",
     "composer": "Fatih Koca",
-    "makam": "Acemkürdi",
+    "lyricist": "M. Tayyip Durceylan",
+    "makam": "Acem Kürdi",
     "form": "İlahi",
     "usul": "Düyek",
+    "variation": "v1",
+    "pageCount": 1,
     "pages": [
-      "https://cdn.jsdelivr.net/gh/osmankalan/nota-arsivi@c7d2d1c/notes/000001/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000001/v1/1.webp"
+    ]
+  },
+  {
+    "id": "000002",
+    "title": "Gel meclis-i uşşâka",
+    "composer": "Fatih Koca",
+    "lyricist": "Seyyid Kerimuddin",
+    "makam": "Gerdaniye",
+    "form": "İlahi",
+    "usul": "Sofyan",
+    "variation": "v1",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000002/v1/1.webp"
+    ]
+  },
+  {
+    "id": "000003",
+    "title": "Mahşerde Kur'an'la Haşreyle Beni",
+    "composer": "Fatih Koca",
+    "lyricist": "Cengiz Numanoğlu",
+    "makam": "Gerdaniye",
+    "form": "İlahi",
+    "usul": "Sofyan",
+    "variation": "v1",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000003/v1/1.webp"
     ]
   }
 ]
