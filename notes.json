@@ -6272,6 +6272,34 @@
     ]
   },
   {
+    "id": "000223",
+    "title": "Gönlüm seni ister heman",
+    "composer": "Ahmet Şahin",
+    "lyricist": "Raci",
+    "makam": "Saba",
+    "form": "İlahi",
+    "usul": "Sofyan",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000223/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000223",
+    "title": "Gönlüm seni ister heman",
+    "composer": "Ahmet Şahin",
+    "lyricist": "Raci",
+    "makam": "Saba",
+    "form": "İlahi",
+    "usul": "Sofyan",
+    "variation": "v3",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000223/v3/1.webp"
+    ]
+  },
+  {
     "id": "000224",
     "title": "Meragu-yi kirayi men çidanem",
     "composer": "Ahmet Şahin",
@@ -11173,7 +11201,7 @@
   },
   {
     "id": "000364",
-    "title": "Varmı ben dosta verdim han ü manım kalmadı",
+    "title": "Varımı ben dosta verdim han ü manım kalmadı",
     "composer": "Ali Rıza Şengel",
     "lyricist": "Sultan I. Ahmet",
     "makam": "Rahatülervah",
@@ -11187,7 +11215,7 @@
   },
   {
     "id": "000364",
-    "title": "Varmı ben dosta verdim han ü manım kalmadı",
+    "title": "Varımı ben dosta verdim han ü manım kalmadı",
     "composer": "Ali Rıza Şengel",
     "lyricist": "Sultan I. Ahmet",
     "makam": "Rahatülervah",
@@ -11201,10 +11229,10 @@
   },
   {
     "id": "000365",
-    "title": "Kabe-i vaslın yolunda sa’y edip düşdüm garib",
+    "title": "Davet etdi kuyine çün ki bizi şahımız",
     "composer": "Ali Rıza Şengel",
-    "lyricist": "İsa Mahvi Efendi",
-    "makam": "Rast",
+    "lyricist": "Kuddusi Hz.",
+    "makam": "Rast-ı Cedid",
     "form": "İlahi",
     "usul": "Düyek",
     "variation": "v1",
@@ -11214,10 +11242,38 @@
     ]
   },
   {
-    "id": "000366",
+    "id": "000365",
     "title": "Davet etdi kuyine çün ki bizi şahımız",
     "composer": "Ali Rıza Şengel",
     "lyricist": "Kuddusi Hz.",
+    "makam": "Rast-ı Cedid",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000365/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000365",
+    "title": "Davet etdi kuyine çün ki bizi şahımız",
+    "composer": "Ali Rıza Şengel",
+    "lyricist": "Kuddusi Hz.",
+    "makam": "Rast-ı Cedid",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v3",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000365/v3/1.webp"
+    ]
+  },
+  {
+    "id": "000366",
+    "title": "Herkes için bu dünya bir iğreti konakdır",
+    "composer": "Ali Rıza Şengel",
+    "lyricist": "",
     "makam": "Rast-ı Cedid",
     "form": "İlahi",
     "usul": "Düyek",
@@ -11229,9 +11285,9 @@
   },
   {
     "id": "000366",
-    "title": "Davet etdi kuyine çün ki bizi şahımız",
+    "title": "Herkes için bu dünya bir iğreti konakdır",
     "composer": "Ali Rıza Şengel",
-    "lyricist": "Kuddusi Hz.",
+    "lyricist": "",
     "makam": "Rast-ı Cedid",
     "form": "İlahi",
     "usul": "Düyek",
@@ -11243,9 +11299,9 @@
   },
   {
     "id": "000366",
-    "title": "Davet etdi kuyine çün ki bizi şahımız",
+    "title": "Herkes için bu dünya bir iğreti konakdır",
     "composer": "Ali Rıza Şengel",
-    "lyricist": "Kuddusi Hz.",
+    "lyricist": "",
     "makam": "Rast-ı Cedid",
     "form": "İlahi",
     "usul": "Düyek",
@@ -11256,49 +11312,7 @@
     ]
   },
   {
-    "id": "000367",
-    "title": "Herkes için bu dünya bir iğreti konakdır",
-    "composer": "Ali Rıza Şengel",
-    "lyricist": "",
-    "makam": "Rast-ı Cedid",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v1",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000367/v1/1.webp"
-    ]
-  },
-  {
-    "id": "000367",
-    "title": "Herkes için bu dünya bir iğreti konakdır",
-    "composer": "Ali Rıza Şengel",
-    "lyricist": "",
-    "makam": "Rast-ı Cedid",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v2",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000367/v2/1.webp"
-    ]
-  },
-  {
-    "id": "000367",
-    "title": "Herkes için bu dünya bir iğreti konakdır",
-    "composer": "Ali Rıza Şengel",
-    "lyricist": "",
-    "makam": "Rast-ı Cedid",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v3",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000367/v3/1.webp"
-    ]
-  },
-  {
-    "id": "000367",
+    "id": "000366",
     "title": "Herkes için bu dünya bir iğreti konakdır",
     "composer": "Ali Rıza Şengel",
     "lyricist": "",
@@ -11308,11 +11322,11 @@
     "variation": "v4",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000367/v4/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000366/v4/1.webp"
     ]
   },
   {
-    "id": "000368",
+    "id": "000367",
     "title": "Hak aşığı olanların daim işi tevhid olur",
     "composer": "Ali Rıza Şengel",
     "lyricist": "Kuddusi Hz.",
@@ -11322,11 +11336,11 @@
     "variation": "v1",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000368/v1/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000367/v1/1.webp"
     ]
   },
   {
-    "id": "000368",
+    "id": "000367",
     "title": "Hak aşığı olanların daim işi tevhid olur",
     "composer": "Ali Rıza Şengel",
     "lyricist": "Kuddusi Hz.",
@@ -11336,29 +11350,85 @@
     "variation": "v2",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000368/v2/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000367/v2/1.webp"
     ]
   },
   {
-    "id": "000368",
+    "id": "000367",
     "title": "Hak aşığı olanların daim işi tevhid olur",
     "composer": "Ali Rıza Şengel",
     "lyricist": "Kuddusi Hz.",
     "makam": "Rehavi",
     "form": "İlahi",
     "usul": "Evsat",
-    "variation": "V3",
+    "variation": "v3",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000368/V3/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000367/v3/1.webp"
     ]
   },
   {
-    "id": "000369",
+    "id": "000368",
     "title": "Her ne kim kişi severse ol ana mabud olur",
     "composer": "Ali Rıza Şengel",
     "lyricist": "Kuddusi Hz.",
     "makam": "Rehavi",
+    "form": "İlahi",
+    "usul": "Devr-i Hindi",
+    "variation": "v1",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000368/v1/1.webp"
+    ]
+  },
+  {
+    "id": "000368",
+    "title": "Her ne kim kişi severse ol ana mabud olur",
+    "composer": "Ali Rıza Şengel",
+    "lyricist": "Kuddusi Hz.",
+    "makam": "Rehavi",
+    "form": "İlahi",
+    "usul": "Devr-i Hindi",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000368/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000368",
+    "title": "Her ne kim kişi severse ol ana mabud olur",
+    "composer": "Ali Rıza Şengel",
+    "lyricist": "Kuddusi Hz.",
+    "makam": "Rehavi",
+    "form": "İlahi",
+    "usul": "Devr-i Hindi",
+    "variation": "v3",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000368/v3/1.webp"
+    ]
+  },
+  {
+    "id": "000368",
+    "title": "Her ne kim kişi severse ol ana mabud olur",
+    "composer": "Ali Rıza Şengel",
+    "lyricist": "Kuddusi Hz.",
+    "makam": "Rehavi",
+    "form": "İlahi",
+    "usul": "Devr-i Hindi",
+    "variation": "v4",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000368/v4/1.webp"
+    ]
+  },
+  {
+    "id": "000369",
+    "title": "Merhaba ey mah-ı enver çok özledik biz seni",
+    "composer": "Ali Rıza Şengel",
+    "lyricist": "",
+    "makam": "Saba Zemzeme",
     "form": "İlahi",
     "usul": "Devr-i Hindi",
     "variation": "v1",
@@ -11369,10 +11439,10 @@
   },
   {
     "id": "000369",
-    "title": "Her ne kim kişi severse ol ana mabud olur",
+    "title": "Merhaba ey mah-ı enver çok özledik biz seni",
     "composer": "Ali Rıza Şengel",
-    "lyricist": "Kuddusi Hz.",
-    "makam": "Rehavi",
+    "lyricist": "",
+    "makam": "Saba Zemzeme",
     "form": "İlahi",
     "usul": "Devr-i Hindi",
     "variation": "v2",
@@ -11383,10 +11453,10 @@
   },
   {
     "id": "000369",
-    "title": "Her ne kim kişi severse ol ana mabud olur",
+    "title": "Merhaba ey mah-ı enver çok özledik biz seni",
     "composer": "Ali Rıza Şengel",
-    "lyricist": "Kuddusi Hz.",
-    "makam": "Rehavi",
+    "lyricist": "",
+    "makam": "Saba Zemzeme",
     "form": "İlahi",
     "usul": "Devr-i Hindi",
     "variation": "v3",
@@ -11397,10 +11467,10 @@
   },
   {
     "id": "000369",
-    "title": "Her ne kim kişi severse ol ana mabud olur",
+    "title": "Merhaba ey mah-ı enver çok özledik biz seni",
     "composer": "Ali Rıza Şengel",
-    "lyricist": "Kuddusi Hz.",
-    "makam": "Rehavi",
+    "lyricist": "",
+    "makam": "Saba Zemzeme",
     "form": "İlahi",
     "usul": "Devr-i Hindi",
     "variation": "v4",
@@ -11410,63 +11480,7 @@
     ]
   },
   {
-    "id": "000370",
-    "title": "Merhaba ey mah-ı enver çok özledik biz seni",
-    "composer": "Ali Rıza Şengel",
-    "lyricist": "",
-    "makam": "Saba Zemzeme",
-    "form": "İlahi",
-    "usul": "Devr-i Hindi",
-    "variation": "v1",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000370/v1/1.webp"
-    ]
-  },
-  {
-    "id": "000370",
-    "title": "Merhaba ey mah-ı enver çok özledik biz seni",
-    "composer": "Ali Rıza Şengel",
-    "lyricist": "",
-    "makam": "Saba Zemzeme",
-    "form": "İlahi",
-    "usul": "Devr-i Hindi",
-    "variation": "v2",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000370/v2/1.webp"
-    ]
-  },
-  {
-    "id": "000370",
-    "title": "Merhaba ey mah-ı enver çok özledik biz seni",
-    "composer": "Ali Rıza Şengel",
-    "lyricist": "",
-    "makam": "Saba Zemzeme",
-    "form": "İlahi",
-    "usul": "Devr-i Hindi",
-    "variation": "v3",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000370/v3/1.webp"
-    ]
-  },
-  {
-    "id": "000370",
-    "title": "Merhaba ey mah-ı enver çok özledik biz seni",
-    "composer": "Ali Rıza Şengel",
-    "lyricist": "",
-    "makam": "Saba Zemzeme",
-    "form": "İlahi",
-    "usul": "Devr-i Hindi",
-    "variation": "v4",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000370/v4/1.webp"
-    ]
-  },
-  {
-    "id": "000370",
+    "id": "000369",
     "title": "Merhaba ey mah-ı enver çok özledik biz seni",
     "composer": "Ali Rıza Şengel",
     "lyricist": "",
@@ -11476,15 +11490,57 @@
     "variation": "v5",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000370/v5/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000369/v5/1.webp"
     ]
   },
   {
-    "id": "000371",
+    "id": "000370",
     "title": "Es-Selam ey salik-i rah-ı şeriat es-Selam",
     "composer": "Ali Rıza Şengel",
     "lyricist": "Nizamoğlu Seyyid Seyfullah",
     "makam": "Segah",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v1",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000370/v1/1.webp"
+    ]
+  },
+  {
+    "id": "000370",
+    "title": "Es-Selam ey salik-i rah-ı şeriat es-Selam",
+    "composer": "Ali Rıza Şengel",
+    "lyricist": "Nizamoğlu Seyyid Seyfullah",
+    "makam": "Segah",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000370/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000370",
+    "title": "Es-Selam ey salik-i rah-ı şeriat es-Selam",
+    "composer": "Ali Rıza Şengel",
+    "lyricist": "Nizamoğlu Seyyid Seyfullah",
+    "makam": "Segah",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v3",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000370/v3/1.webp"
+    ]
+  },
+  {
+    "id": "000371",
+    "title": "Çün doğup tutdu cihan yüzünü hüsnün güneşi",
+    "composer": "Ali Rıza Şengel",
+    "lyricist": "Ömer Ruşeni Dede",
+    "makam": "Suzinak",
     "form": "İlahi",
     "usul": "Düyek",
     "variation": "v1",
@@ -11495,10 +11551,10 @@
   },
   {
     "id": "000371",
-    "title": "Es-Selam ey salik-i rah-ı şeriat es-Selam",
+    "title": "Çün doğup tutdu cihan yüzünü hüsnün güneşi",
     "composer": "Ali Rıza Şengel",
-    "lyricist": "Nizamoğlu Seyyid Seyfullah",
-    "makam": "Segah",
+    "lyricist": "Ömer Ruşeni Dede",
+    "makam": "Suzinak",
     "form": "İlahi",
     "usul": "Düyek",
     "variation": "v2",
@@ -11509,10 +11565,10 @@
   },
   {
     "id": "000371",
-    "title": "Es-Selam ey salik-i rah-ı şeriat es-Selam",
+    "title": "Çün doğup tutdu cihan yüzünü hüsnün güneşi",
     "composer": "Ali Rıza Şengel",
-    "lyricist": "Nizamoğlu Seyyid Seyfullah",
-    "makam": "Segah",
+    "lyricist": "Ömer Ruşeni Dede",
+    "makam": "Suzinak",
     "form": "İlahi",
     "usul": "Düyek",
     "variation": "v3",
@@ -11522,10 +11578,38 @@
     ]
   },
   {
-    "id": "000372",
+    "id": "000371",
     "title": "Çün doğup tutdu cihan yüzünü hüsnün güneşi",
     "composer": "Ali Rıza Şengel",
     "lyricist": "Ömer Ruşeni Dede",
+    "makam": "Suzinak",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v4",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000371/v4/1.webp"
+    ]
+  },
+  {
+    "id": "000371",
+    "title": "Çün doğup tutdu cihan yüzünü hüsnün güneşi",
+    "composer": "Ali Rıza Şengel",
+    "lyricist": "Ömer Ruşeni Dede",
+    "makam": "Suzinak",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v5",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000371/v5/1.webp"
+    ]
+  },
+  {
+    "id": "000372",
+    "title": "Ey semi’ul Hayyü’l-Kayyum ü Hakim ü Zül-Celal",
+    "composer": "Ali Rıza Şengel",
+    "lyricist": "Kuddusi Hz.",
     "makam": "Suzinak",
     "form": "İlahi",
     "usul": "Düyek",
@@ -11537,9 +11621,9 @@
   },
   {
     "id": "000372",
-    "title": "Çün doğup tutdu cihan yüzünü hüsnün güneşi",
+    "title": "Ey semi’ul Hayyü’l-Kayyum ü Hakim ü Zül-Celal",
     "composer": "Ali Rıza Şengel",
-    "lyricist": "Ömer Ruşeni Dede",
+    "lyricist": "Kuddusi Hz.",
     "makam": "Suzinak",
     "form": "İlahi",
     "usul": "Düyek",
@@ -11551,9 +11635,9 @@
   },
   {
     "id": "000372",
-    "title": "Çün doğup tutdu cihan yüzünü hüsnün güneşi",
+    "title": "Ey semi’ul Hayyü’l-Kayyum ü Hakim ü Zül-Celal",
     "composer": "Ali Rıza Şengel",
-    "lyricist": "Ömer Ruşeni Dede",
+    "lyricist": "Kuddusi Hz.",
     "makam": "Suzinak",
     "form": "İlahi",
     "usul": "Düyek",
@@ -11564,41 +11648,13 @@
     ]
   },
   {
-    "id": "000372",
-    "title": "Çün doğup tutdu cihan yüzünü hüsnün güneşi",
-    "composer": "Ali Rıza Şengel",
-    "lyricist": "Ömer Ruşeni Dede",
-    "makam": "Suzinak",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v4",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000372/v4/1.webp"
-    ]
-  },
-  {
-    "id": "000372",
-    "title": "Çün doğup tutdu cihan yüzünü hüsnün güneşi",
-    "composer": "Ali Rıza Şengel",
-    "lyricist": "Ömer Ruşeni Dede",
-    "makam": "Suzinak",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v5",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000372/v5/1.webp"
-    ]
-  },
-  {
     "id": "000373",
-    "title": "Ey semi’ul Hayyü’l-Kayyum ü Hakim ü Zül-Celal",
+    "title": "Yandı bu gönül şem-i füruzan-ı Ali’den",
     "composer": "Ali Rıza Şengel",
-    "lyricist": "Kuddusi Hz.",
+    "lyricist": "",
     "makam": "Suzinak",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Çifte Düyek",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -11607,12 +11663,12 @@
   },
   {
     "id": "000373",
-    "title": "Ey semi’ul Hayyü’l-Kayyum ü Hakim ü Zül-Celal",
+    "title": "Yandı bu gönül şem-i füruzan-ı Ali’den",
     "composer": "Ali Rıza Şengel",
-    "lyricist": "Kuddusi Hz.",
+    "lyricist": "",
     "makam": "Suzinak",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Çifte Düyek",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -11621,12 +11677,12 @@
   },
   {
     "id": "000373",
-    "title": "Ey semi’ul Hayyü’l-Kayyum ü Hakim ü Zül-Celal",
+    "title": "Yandı bu gönül şem-i füruzan-ı Ali’den",
     "composer": "Ali Rıza Şengel",
-    "lyricist": "Kuddusi Hz.",
+    "lyricist": "",
     "makam": "Suzinak",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Çifte Düyek",
     "variation": "v3",
     "pageCount": 1,
     "pages": [
@@ -11634,13 +11690,41 @@
     ]
   },
   {
-    "id": "000374",
+    "id": "000373",
     "title": "Yandı bu gönül şem-i füruzan-ı Ali’den",
     "composer": "Ali Rıza Şengel",
     "lyricist": "",
     "makam": "Suzinak",
     "form": "İlahi",
     "usul": "Çifte Düyek",
+    "variation": "v4",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000373/v4/1.webp"
+    ]
+  },
+  {
+    "id": "000373",
+    "title": "Yandı bu gönül şem-i füruzan-ı Ali’den",
+    "composer": "Ali Rıza Şengel",
+    "lyricist": "",
+    "makam": "Suzinak",
+    "form": "İlahi",
+    "usul": "Çifte Düyek",
+    "variation": "v5",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000373/v5/1.webp"
+    ]
+  },
+  {
+    "id": "000374",
+    "title": "Mest ü hayranım zar ü giryanım",
+    "composer": "Ali Rıza Şengel",
+    "lyricist": "Kuddusi Hz.",
+    "makam": "Şedaraban",
+    "form": "İlahi",
+    "usul": "Düyek",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -11649,12 +11733,12 @@
   },
   {
     "id": "000374",
-    "title": "Yandı bu gönül şem-i füruzan-ı Ali’den",
+    "title": "Mest ü hayranım zar ü giryanım",
     "composer": "Ali Rıza Şengel",
-    "lyricist": "",
-    "makam": "Suzinak",
+    "lyricist": "Kuddusi Hz.",
+    "makam": "Şedaraban",
     "form": "İlahi",
-    "usul": "Çifte Düyek",
+    "usul": "Düyek",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -11663,12 +11747,12 @@
   },
   {
     "id": "000374",
-    "title": "Yandı bu gönül şem-i füruzan-ı Ali’den",
+    "title": "Mest ü hayranım zar ü giryanım",
     "composer": "Ali Rıza Şengel",
-    "lyricist": "",
-    "makam": "Suzinak",
+    "lyricist": "Kuddusi Hz.",
+    "makam": "Şedaraban",
     "form": "İlahi",
-    "usul": "Çifte Düyek",
+    "usul": "Düyek",
     "variation": "v3",
     "pageCount": 1,
     "pages": [
@@ -11676,41 +11760,13 @@
     ]
   },
   {
-    "id": "000374",
-    "title": "Yandı bu gönül şem-i füruzan-ı Ali’den",
-    "composer": "Ali Rıza Şengel",
-    "lyricist": "",
-    "makam": "Suzinak",
-    "form": "İlahi",
-    "usul": "Çifte Düyek",
-    "variation": "v4",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000374/v4/1.webp"
-    ]
-  },
-  {
-    "id": "000374",
-    "title": "Yandı bu gönül şem-i füruzan-ı Ali’den",
-    "composer": "Ali Rıza Şengel",
-    "lyricist": "",
-    "makam": "Suzinak",
-    "form": "İlahi",
-    "usul": "Çifte Düyek",
-    "variation": "v5",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000374/v5/1.webp"
-    ]
-  },
-  {
     "id": "000375",
-    "title": "Mest ü hayranım zar ü giryanım",
+    "title": "Adım adım ileri beş alemden içeri",
     "composer": "Ali Rıza Şengel",
-    "lyricist": "Kuddusi Hz.",
-    "makam": "Şedaraban",
+    "lyricist": "Yunus Emre",
+    "makam": "Uşşak",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Sofyan",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -11719,12 +11775,12 @@
   },
   {
     "id": "000375",
-    "title": "Mest ü hayranım zar ü giryanım",
+    "title": "Adım adım ileri beş alemden içeri",
     "composer": "Ali Rıza Şengel",
-    "lyricist": "Kuddusi Hz.",
-    "makam": "Şedaraban",
+    "lyricist": "Yunus Emre",
+    "makam": "Uşşak",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Sofyan",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -11733,12 +11789,12 @@
   },
   {
     "id": "000375",
-    "title": "Mest ü hayranım zar ü giryanım",
+    "title": "Adım adım ileri beş alemden içeri",
     "composer": "Ali Rıza Şengel",
-    "lyricist": "Kuddusi Hz.",
-    "makam": "Şedaraban",
+    "lyricist": "Yunus Emre",
+    "makam": "Uşşak",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Sofyan",
     "variation": "v3",
     "pageCount": 1,
     "pages": [
@@ -11746,13 +11802,27 @@
     ]
   },
   {
-    "id": "000376",
+    "id": "000375",
     "title": "Adım adım ileri beş alemden içeri",
     "composer": "Ali Rıza Şengel",
     "lyricist": "Yunus Emre",
     "makam": "Uşşak",
     "form": "İlahi",
     "usul": "Sofyan",
+    "variation": "v4",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000375/v4/1.webp"
+    ]
+  },
+  {
+    "id": "000376",
+    "title": "Ey dervişler ey kardeşler ne aceb derdim var benim",
+    "composer": "Ali Rıza Şengel",
+    "lyricist": "Yunus Emre",
+    "makam": "Uşşak",
+    "form": "İlahi",
+    "usul": "Çifte Düyek",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -11761,12 +11831,12 @@
   },
   {
     "id": "000376",
-    "title": "Adım adım ileri beş alemden içeri",
+    "title": "Ey dervişler ey kardeşler ne aceb derdim var benim",
     "composer": "Ali Rıza Şengel",
     "lyricist": "Yunus Emre",
     "makam": "Uşşak",
     "form": "İlahi",
-    "usul": "Sofyan",
+    "usul": "Çifte Düyek",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -11775,12 +11845,12 @@
   },
   {
     "id": "000376",
-    "title": "Adım adım ileri beş alemden içeri",
+    "title": "Ey dervişler ey kardeşler ne aceb derdim var benim",
     "composer": "Ali Rıza Şengel",
     "lyricist": "Yunus Emre",
     "makam": "Uşşak",
     "form": "İlahi",
-    "usul": "Sofyan",
+    "usul": "Çifte Düyek",
     "variation": "v3",
     "pageCount": 1,
     "pages": [
@@ -11789,12 +11859,12 @@
   },
   {
     "id": "000376",
-    "title": "Adım adım ileri beş alemden içeri",
+    "title": "Ey dervişler ey kardeşler ne aceb derdim var benim",
     "composer": "Ali Rıza Şengel",
     "lyricist": "Yunus Emre",
     "makam": "Uşşak",
     "form": "İlahi",
-    "usul": "Sofyan",
+    "usul": "Çifte Düyek",
     "variation": "v4",
     "pageCount": 1,
     "pages": [
@@ -11802,63 +11872,7 @@
     ]
   },
   {
-    "id": "000377",
-    "title": "Ey dervişler ey kardeşler ne aceb derdim var benim",
-    "composer": "Ali Rıza Şengel",
-    "lyricist": "Yunus Emre",
-    "makam": "Uşşak",
-    "form": "İlahi",
-    "usul": "Çifte Düyek",
-    "variation": "v1",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000377/v1/1.webp"
-    ]
-  },
-  {
-    "id": "000377",
-    "title": "Ey dervişler ey kardeşler ne aceb derdim var benim",
-    "composer": "Ali Rıza Şengel",
-    "lyricist": "Yunus Emre",
-    "makam": "Uşşak",
-    "form": "İlahi",
-    "usul": "Çifte Düyek",
-    "variation": "v2",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000377/v2/1.webp"
-    ]
-  },
-  {
-    "id": "000377",
-    "title": "Ey dervişler ey kardeşler ne aceb derdim var benim",
-    "composer": "Ali Rıza Şengel",
-    "lyricist": "Yunus Emre",
-    "makam": "Uşşak",
-    "form": "İlahi",
-    "usul": "Çifte Düyek",
-    "variation": "v3",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000377/v3/1.webp"
-    ]
-  },
-  {
-    "id": "000377",
-    "title": "Ey dervişler ey kardeşler ne aceb derdim var benim",
-    "composer": "Ali Rıza Şengel",
-    "lyricist": "Yunus Emre",
-    "makam": "Uşşak",
-    "form": "İlahi",
-    "usul": "Çifte Düyek",
-    "variation": "v4",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000377/v4/1.webp"
-    ]
-  },
-  {
-    "id": "000377",
+    "id": "000376",
     "title": "Ey dervişler ey kardeşler ne aceb derdim var benim",
     "composer": "Ali Rıza Şengel",
     "lyricist": "Yunus Emre",
@@ -11868,17 +11882,73 @@
     "variation": "v5",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000377/v5/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000376/v5/1.webp"
     ]
   },
   {
-    "id": "000378",
+    "id": "000377",
     "title": "Dünyaya gönül verme ki viran olacaktır",
     "composer": "Ali Rıza Şengel",
     "lyricist": "",
     "makam": "Yegah",
     "form": "İlahi",
     "usul": "Düyek",
+    "variation": "v1",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000377/v1/1.webp"
+    ]
+  },
+  {
+    "id": "000377",
+    "title": "Dünyaya gönül verme ki viran olacaktır",
+    "composer": "Ali Rıza Şengel",
+    "lyricist": "",
+    "makam": "Yegah",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000377/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000377",
+    "title": "Dünyaya gönül verme ki viran olacaktır",
+    "composer": "Ali Rıza Şengel",
+    "lyricist": "",
+    "makam": "Yegah",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v3",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000377/v3/1.webp"
+    ]
+  },
+  {
+    "id": "000377",
+    "title": "Dünyaya gönül verme ki viran olacaktır",
+    "composer": "Ali Rıza Şengel",
+    "lyricist": "",
+    "makam": "Yegah",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v4",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000377/v4/1.webp"
+    ]
+  },
+  {
+    "id": "000378",
+    "title": "Ey Hakk’a vuslat isteyen zikret heman leyl ü nehar",
+    "composer": "Ali Rıza Şengel",
+    "lyricist": "Kuddusi Hz.",
+    "makam": "Zavil",
+    "form": "İlahi",
+    "usul": "Evsat",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -11887,12 +11957,12 @@
   },
   {
     "id": "000378",
-    "title": "Dünyaya gönül verme ki viran olacaktır",
+    "title": "Ey Hakk’a vuslat isteyen zikret heman leyl ü nehar",
     "composer": "Ali Rıza Şengel",
-    "lyricist": "",
-    "makam": "Yegah",
+    "lyricist": "Kuddusi Hz.",
+    "makam": "Zavil",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Evsat",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -11901,12 +11971,12 @@
   },
   {
     "id": "000378",
-    "title": "Dünyaya gönül verme ki viran olacaktır",
+    "title": "Ey Hakk’a vuslat isteyen zikret heman leyl ü nehar",
     "composer": "Ali Rıza Şengel",
-    "lyricist": "",
-    "makam": "Yegah",
+    "lyricist": "Kuddusi Hz.",
+    "makam": "Zavil",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Evsat",
     "variation": "v3",
     "pageCount": 1,
     "pages": [
@@ -11915,12 +11985,12 @@
   },
   {
     "id": "000378",
-    "title": "Dünyaya gönül verme ki viran olacaktır",
+    "title": "Ey Hakk’a vuslat isteyen zikret heman leyl ü nehar",
     "composer": "Ali Rıza Şengel",
-    "lyricist": "",
-    "makam": "Yegah",
+    "lyricist": "Kuddusi Hz.",
+    "makam": "Zavil",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Evsat",
     "variation": "v4",
     "pageCount": 1,
     "pages": [
@@ -11929,62 +11999,6 @@
   },
   {
     "id": "000379",
-    "title": "Ey Hakk’a vuslat isteyen zikret heman leyl ü nehar",
-    "composer": "Ali Rıza Şengel",
-    "lyricist": "Kuddusi Hz.",
-    "makam": "Zavil",
-    "form": "İlahi",
-    "usul": "Evsat",
-    "variation": "v1",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000379/v1/1.webp"
-    ]
-  },
-  {
-    "id": "000379",
-    "title": "Ey Hakk’a vuslat isteyen zikret heman leyl ü nehar",
-    "composer": "Ali Rıza Şengel",
-    "lyricist": "Kuddusi Hz.",
-    "makam": "Zavil",
-    "form": "İlahi",
-    "usul": "Evsat",
-    "variation": "v2",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000379/v2/1.webp"
-    ]
-  },
-  {
-    "id": "000379",
-    "title": "Ey Hakk’a vuslat isteyen zikret heman leyl ü nehar",
-    "composer": "Ali Rıza Şengel",
-    "lyricist": "Kuddusi Hz.",
-    "makam": "Zavil",
-    "form": "İlahi",
-    "usul": "Evsat",
-    "variation": "v3",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000379/v3/1.webp"
-    ]
-  },
-  {
-    "id": "000379",
-    "title": "Ey Hakk’a vuslat isteyen zikret heman leyl ü nehar",
-    "composer": "Ali Rıza Şengel",
-    "lyricist": "Kuddusi Hz.",
-    "makam": "Zavil",
-    "form": "İlahi",
-    "usul": "Evsat",
-    "variation": "v4",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000379/v4/1.webp"
-    ]
-  },
-  {
-    "id": "000380",
     "title": "Aşkınla yandım derdine kandım",
     "composer": "Ali Şenozan",
     "lyricist": "Ali Şenozan",
@@ -11994,17 +12008,87 @@
     "variation": "v1",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000380/v1/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000379/v1/1.webp"
     ]
   },
   {
-    "id": "000381",
+    "id": "000380",
     "title": "Derd-mendim mücrimim demane geldim ya Rasul",
     "composer": "Ali Şirügani Dede",
     "lyricist": "İsa Mahvi Efendi",
     "makam": "Acem",
     "form": "İlahi",
     "usul": "Düyek",
+    "variation": "v1",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000380/v1/1.webp"
+    ]
+  },
+  {
+    "id": "000380",
+    "title": "Derd-mendim mücrimim demane geldim ya Rasul",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "İsa Mahvi Efendi",
+    "makam": "Acem",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000380/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000380",
+    "title": "Derd-mendim mücrimim demane geldim ya Rasul",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "İsa Mahvi Efendi",
+    "makam": "Acem",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v3",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000380/v3/1.webp"
+    ]
+  },
+  {
+    "id": "000380",
+    "title": "Derd-mendim mücrimim demane geldim ya Rasul",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "İsa Mahvi Efendi",
+    "makam": "Acem",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v4",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000380/v4/1.webp"
+    ]
+  },
+  {
+    "id": "000380",
+    "title": "Derd-mendim mücrimim demane geldim ya Rasul",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "İsa Mahvi Efendi",
+    "makam": "Acem",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v5",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000380/v5/1.webp"
+    ]
+  },
+  {
+    "id": "000381",
+    "title": "Bakıp cemal-i yare çağırıram dost dost",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Niyaz-i Mısrî",
+    "makam": "Acem Aşiran",
+    "form": "İlahi",
+    "usul": "Yürük Semai",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -12013,12 +12097,12 @@
   },
   {
     "id": "000381",
-    "title": "Derd-mendim mücrimim demane geldim ya Rasul",
+    "title": "Bakıp cemal-i yare çağırıram dost dost",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "İsa Mahvi Efendi",
-    "makam": "Acem",
+    "lyricist": "Niyaz-i Mısrî",
+    "makam": "Acem Aşiran",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Yürük Semai",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -12027,12 +12111,12 @@
   },
   {
     "id": "000381",
-    "title": "Derd-mendim mücrimim demane geldim ya Rasul",
+    "title": "Bakıp cemal-i yare çağırıram dost dost",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "İsa Mahvi Efendi",
-    "makam": "Acem",
+    "lyricist": "Niyaz-i Mısrî",
+    "makam": "Acem Aşiran",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Yürük Semai",
     "variation": "v3",
     "pageCount": 1,
     "pages": [
@@ -12040,41 +12124,13 @@
     ]
   },
   {
-    "id": "000381",
-    "title": "Derd-mendim mücrimim demane geldim ya Rasul",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "İsa Mahvi Efendi",
-    "makam": "Acem",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v4",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000381/v4/1.webp"
-    ]
-  },
-  {
-    "id": "000381",
-    "title": "Derd-mendim mücrimim demane geldim ya Rasul",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "İsa Mahvi Efendi",
-    "makam": "Acem",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v5",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000381/v5/1.webp"
-    ]
-  },
-  {
     "id": "000382",
-    "title": "Bakıp cemal-i yare çağırıram dost dost",
+    "title": "Nice bir besleyesin sen bu kadd ü kameti",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Niyaz-i Mısrî",
-    "makam": "Acem Aşiran",
+    "lyricist": "Yunus Emre",
+    "makam": "Buselik",
     "form": "İlahi",
-    "usul": "Yürük Semai",
+    "usul": "Evsat",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -12083,12 +12139,12 @@
   },
   {
     "id": "000382",
-    "title": "Bakıp cemal-i yare çağırıram dost dost",
+    "title": "Nice bir besleyesin sen bu kadd ü kameti",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Niyaz-i Mısrî",
-    "makam": "Acem Aşiran",
+    "lyricist": "Yunus Emre",
+    "makam": "Buselik",
     "form": "İlahi",
-    "usul": "Yürük Semai",
+    "usul": "Evsat",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -12097,12 +12153,12 @@
   },
   {
     "id": "000382",
-    "title": "Bakıp cemal-i yare çağırıram dost dost",
+    "title": "Nice bir besleyesin sen bu kadd ü kameti",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Niyaz-i Mısrî",
-    "makam": "Acem Aşiran",
+    "lyricist": "Yunus Emre",
+    "makam": "Buselik",
     "form": "İlahi",
-    "usul": "Yürük Semai",
+    "usul": "Evsat",
     "variation": "v3",
     "pageCount": 1,
     "pages": [
@@ -12110,13 +12166,27 @@
     ]
   },
   {
-    "id": "000383",
+    "id": "000382",
     "title": "Nice bir besleyesin sen bu kadd ü kameti",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Yunus Emre",
     "makam": "Buselik",
     "form": "İlahi",
     "usul": "Evsat",
+    "variation": "v4",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000382/v4/1.webp"
+    ]
+  },
+  {
+    "id": "000383",
+    "title": "Allah u Rabb-i layezal",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Sultan II.Mustafa",
+    "makam": "Eviç",
+    "form": "İlahi",
+    "usul": "Düyek",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -12125,12 +12195,12 @@
   },
   {
     "id": "000383",
-    "title": "Nice bir besleyesin sen bu kadd ü kameti",
+    "title": "Allah u Rabb-i layezal",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Yunus Emre",
-    "makam": "Buselik",
+    "lyricist": "Sultan II.Mustafa",
+    "makam": "Eviç",
     "form": "İlahi",
-    "usul": "Evsat",
+    "usul": "Düyek",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -12139,12 +12209,12 @@
   },
   {
     "id": "000383",
-    "title": "Nice bir besleyesin sen bu kadd ü kameti",
+    "title": "Allah u Rabb-i layezal",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Yunus Emre",
-    "makam": "Buselik",
+    "lyricist": "Sultan II.Mustafa",
+    "makam": "Eviç",
     "form": "İlahi",
-    "usul": "Evsat",
+    "usul": "Düyek",
     "variation": "v3",
     "pageCount": 1,
     "pages": [
@@ -12153,12 +12223,12 @@
   },
   {
     "id": "000383",
-    "title": "Nice bir besleyesin sen bu kadd ü kameti",
+    "title": "Allah u Rabb-i layezal",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Yunus Emre",
-    "makam": "Buselik",
+    "lyricist": "Sultan II.Mustafa",
+    "makam": "Eviç",
     "form": "İlahi",
-    "usul": "Evsat",
+    "usul": "Düyek",
     "variation": "v4",
     "pageCount": 1,
     "pages": [
@@ -12166,63 +12236,7 @@
     ]
   },
   {
-    "id": "000384",
-    "title": "Allah u Rabb-i layezal",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Sultan II.Mustafa",
-    "makam": "Eviç",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v1",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000384/v1/1.webp"
-    ]
-  },
-  {
-    "id": "000384",
-    "title": "Allah u Rabb-i layezal",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Sultan II.Mustafa",
-    "makam": "Eviç",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v2",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000384/v2/1.webp"
-    ]
-  },
-  {
-    "id": "000384",
-    "title": "Allah u Rabb-i layezal",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Sultan II.Mustafa",
-    "makam": "Eviç",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v3",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000384/v3/1.webp"
-    ]
-  },
-  {
-    "id": "000384",
-    "title": "Allah u Rabb-i layezal",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Sultan II.Mustafa",
-    "makam": "Eviç",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v4",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000384/v4/1.webp"
-    ]
-  },
-  {
-    "id": "000384",
+    "id": "000383",
     "title": "Allah u Rabb-i layezal",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Sultan II.Mustafa",
@@ -12232,14 +12246,42 @@
     "variation": "v5",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000384/v5/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000383/v5/1.webp"
+    ]
+  },
+  {
+    "id": "000384",
+    "title": "Bu dervişlik yoluna",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Eşrefoğlu Rûmî",
+    "makam": "Eviç",
+    "form": "İlahi",
+    "usul": "Sofyan",
+    "variation": "v1",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000384/v1/1.webp"
+    ]
+  },
+  {
+    "id": "000384",
+    "title": "Bu dervişlik yoluna",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Eşrefoğlu Rûmî",
+    "makam": "Eviç",
+    "form": "İlahi",
+    "usul": "Sofyan",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000384/v2/1.webp"
     ]
   },
   {
     "id": "000385",
-    "title": "Bu dervişlik yoluna",
+    "title": "Deviş olan kişiler deli olagan olur",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Eşrefoğlu Rûmî",
+    "lyricist": "Yunus Emre",
     "makam": "Eviç",
     "form": "İlahi",
     "usul": "Sofyan",
@@ -12251,9 +12293,9 @@
   },
   {
     "id": "000385",
-    "title": "Bu dervişlik yoluna",
+    "title": "Deviş olan kişiler deli olagan olur",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Eşrefoğlu Rûmî",
+    "lyricist": "Yunus Emre",
     "makam": "Eviç",
     "form": "İlahi",
     "usul": "Sofyan",
@@ -12265,12 +12307,12 @@
   },
   {
     "id": "000386",
-    "title": "Deviş olan kişiler deli olagan olur",
+    "title": "Devran odur kim devrini devr-i felek bilmez ola",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Yunus Emre",
+    "lyricist": "Niyaz-i Mısrî",
     "makam": "Eviç",
     "form": "İlahi",
-    "usul": "Sofyan",
+    "usul": "Evsat",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -12279,12 +12321,12 @@
   },
   {
     "id": "000386",
-    "title": "Deviş olan kişiler deli olagan olur",
+    "title": "Devran odur kim devrini devr-i felek bilmez ola",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Yunus Emre",
+    "lyricist": "Niyaz-i Mısrî",
     "makam": "Eviç",
     "form": "İlahi",
-    "usul": "Sofyan",
+    "usul": "Evsat",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -12292,35 +12334,7 @@
     ]
   },
   {
-    "id": "000387",
-    "title": "Devran odur kim devrini devr-i felek bilmez ola",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Niyaz-i Mısrî",
-    "makam": "Eviç",
-    "form": "İlahi",
-    "usul": "Evsat",
-    "variation": "v1",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000387/v1/1.webp"
-    ]
-  },
-  {
-    "id": "000387",
-    "title": "Devran odur kim devrini devr-i felek bilmez ola",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Niyaz-i Mısrî",
-    "makam": "Eviç",
-    "form": "İlahi",
-    "usul": "Evsat",
-    "variation": "v2",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000387/v2/1.webp"
-    ]
-  },
-  {
-    "id": "000387",
+    "id": "000386",
     "title": "Devran odur kim devrini devr-i felek bilmez ola",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Niyaz-i Mısrî",
@@ -12330,11 +12344,11 @@
     "variation": "v3",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000387/v3/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000386/v3/1.webp"
     ]
   },
   {
-    "id": "000387",
+    "id": "000386",
     "title": "Devran odur kim devrini devr-i felek bilmez ola",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Niyaz-i Mısrî",
@@ -12344,11 +12358,11 @@
     "variation": "v4",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000387/v4/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000386/v4/1.webp"
     ]
   },
   {
-    "id": "000387",
+    "id": "000386",
     "title": "Devran odur kim devrini devr-i felek bilmez ola",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Niyaz-i Mısrî",
@@ -12358,11 +12372,11 @@
     "variation": "v5",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000387/v5/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000386/v5/1.webp"
     ]
   },
   {
-    "id": "000388",
+    "id": "000387",
     "title": "Ey gönül bir derde düş kim anda derman gizlidir",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Eşrefoğlu Rûmî",
@@ -12372,11 +12386,11 @@
     "variation": "v1",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000388/v1/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000387/v1/1.webp"
     ]
   },
   {
-    "id": "000388",
+    "id": "000387",
     "title": "Ey gönül bir derde düş kim anda derman gizlidir",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Eşrefoğlu Rûmî",
@@ -12386,11 +12400,11 @@
     "variation": "v2",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000388/v2/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000387/v2/1.webp"
     ]
   },
   {
-    "id": "000388",
+    "id": "000387",
     "title": "Ey gönül bir derde düş kim anda derman gizlidir",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Eşrefoğlu Rûmî",
@@ -12400,11 +12414,11 @@
     "variation": "v3",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000388/v3/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000387/v3/1.webp"
     ]
   },
   {
-    "id": "000388",
+    "id": "000387",
     "title": "Ey gönül bir derde düş kim anda derman gizlidir",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Eşrefoğlu Rûmî",
@@ -12414,12 +12428,68 @@
     "variation": "v4",
     "pageCount": 1,
     "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000387/v4/1.webp"
+    ]
+  },
+  {
+    "id": "000388",
+    "title": "Ey tarikat erleri ey hakikat pirleri",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Niyaz-i Mısrî",
+    "makam": "Eviç",
+    "form": "İlahi",
+    "usul": "Evsat",
+    "variation": "v1",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000388/v1/1.webp"
+    ]
+  },
+  {
+    "id": "000388",
+    "title": "Ey tarikat erleri ey hakikat pirleri",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Niyaz-i Mısrî",
+    "makam": "Eviç",
+    "form": "İlahi",
+    "usul": "Evsat",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000388/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000388",
+    "title": "Ey tarikat erleri ey hakikat pirleri",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Niyaz-i Mısrî",
+    "makam": "Eviç",
+    "form": "İlahi",
+    "usul": "Evsat",
+    "variation": "v3",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000388/v3/1.webp"
+    ]
+  },
+  {
+    "id": "000388",
+    "title": "Ey tarikat erleri ey hakikat pirleri",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Niyaz-i Mısrî",
+    "makam": "Eviç",
+    "form": "İlahi",
+    "usul": "Evsat",
+    "variation": "v4",
+    "pageCount": 1,
+    "pages": [
       "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000388/v4/1.webp"
     ]
   },
   {
     "id": "000389",
-    "title": "Ey tarikat erleri ey hakikat pirleri",
+    "title": "İlm-i bahr-i vücud esdafının dürdanesiyim ben",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Niyaz-i Mısrî",
     "makam": "Eviç",
@@ -12433,7 +12503,7 @@
   },
   {
     "id": "000389",
-    "title": "Ey tarikat erleri ey hakikat pirleri",
+    "title": "İlm-i bahr-i vücud esdafının dürdanesiyim ben",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Niyaz-i Mısrî",
     "makam": "Eviç",
@@ -12447,7 +12517,7 @@
   },
   {
     "id": "000389",
-    "title": "Ey tarikat erleri ey hakikat pirleri",
+    "title": "İlm-i bahr-i vücud esdafının dürdanesiyim ben",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Niyaz-i Mısrî",
     "makam": "Eviç",
@@ -12461,7 +12531,7 @@
   },
   {
     "id": "000389",
-    "title": "Ey tarikat erleri ey hakikat pirleri",
+    "title": "İlm-i bahr-i vücud esdafının dürdanesiyim ben",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Niyaz-i Mısrî",
     "makam": "Eviç",
@@ -12475,9 +12545,9 @@
   },
   {
     "id": "000390",
-    "title": "İlm-i bahr-i vücud esdafının dürdanesiyim ben",
+    "title": "Nazarın pak ise aldın nazarı",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Niyaz-i Mısrî",
+    "lyricist": "Himmet Efendi",
     "makam": "Eviç",
     "form": "İlahi",
     "usul": "Evsat",
@@ -12489,9 +12559,9 @@
   },
   {
     "id": "000390",
-    "title": "İlm-i bahr-i vücud esdafının dürdanesiyim ben",
+    "title": "Nazarın pak ise aldın nazarı",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Niyaz-i Mısrî",
+    "lyricist": "Himmet Efendi",
     "makam": "Eviç",
     "form": "İlahi",
     "usul": "Evsat",
@@ -12503,9 +12573,9 @@
   },
   {
     "id": "000390",
-    "title": "İlm-i bahr-i vücud esdafının dürdanesiyim ben",
+    "title": "Nazarın pak ise aldın nazarı",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Niyaz-i Mısrî",
+    "lyricist": "Himmet Efendi",
     "makam": "Eviç",
     "form": "İlahi",
     "usul": "Evsat",
@@ -12517,9 +12587,9 @@
   },
   {
     "id": "000390",
-    "title": "İlm-i bahr-i vücud esdafının dürdanesiyim ben",
+    "title": "Nazarın pak ise aldın nazarı",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Niyaz-i Mısrî",
+    "lyricist": "Himmet Efendi",
     "makam": "Eviç",
     "form": "İlahi",
     "usul": "Evsat",
@@ -12530,63 +12600,7 @@
     ]
   },
   {
-    "id": "000391",
-    "title": "Nazarın pak ise aldın nazarı",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Himmet Efendi",
-    "makam": "Eviç",
-    "form": "İlahi",
-    "usul": "Evsat",
-    "variation": "v1",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000391/v1/1.webp"
-    ]
-  },
-  {
-    "id": "000391",
-    "title": "Nazarın pak ise aldın nazarı",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Himmet Efendi",
-    "makam": "Eviç",
-    "form": "İlahi",
-    "usul": "Evsat",
-    "variation": "v2",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000391/v2/1.webp"
-    ]
-  },
-  {
-    "id": "000391",
-    "title": "Nazarın pak ise aldın nazarı",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Himmet Efendi",
-    "makam": "Eviç",
-    "form": "İlahi",
-    "usul": "Evsat",
-    "variation": "v3",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000391/v3/1.webp"
-    ]
-  },
-  {
-    "id": "000391",
-    "title": "Nazarın pak ise aldın nazarı",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Himmet Efendi",
-    "makam": "Eviç",
-    "form": "İlahi",
-    "usul": "Evsat",
-    "variation": "v4",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000391/v4/1.webp"
-    ]
-  },
-  {
-    "id": "000391",
+    "id": "000390",
     "title": "Nazarın pak ise aldın nazarı",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Himmet Efendi",
@@ -12596,11 +12610,11 @@
     "variation": "v5",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000391/v5/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000390/v5/1.webp"
     ]
   },
   {
-    "id": "000392",
+    "id": "000391",
     "title": "Tehi sanmam siz beni dost yüzün görüp geldim",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Yunus Emre",
@@ -12610,11 +12624,11 @@
     "variation": "v1",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000392/v1/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000391/v1/1.webp"
     ]
   },
   {
-    "id": "000392",
+    "id": "000391",
     "title": "Tehi sanmam siz beni dost yüzün görüp geldim",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Yunus Emre",
@@ -12624,11 +12638,11 @@
     "variation": "v2",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000392/v2/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000391/v2/1.webp"
     ]
   },
   {
-    "id": "000392",
+    "id": "000391",
     "title": "Tehi sanmam siz beni dost yüzün görüp geldim",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Yunus Emre",
@@ -12638,11 +12652,11 @@
     "variation": "v3",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000392/v3/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000391/v3/1.webp"
     ]
   },
   {
-    "id": "000392",
+    "id": "000391",
     "title": "Tehi sanmam siz beni dost yüzün görüp geldim",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Yunus Emre",
@@ -12652,11 +12666,11 @@
     "variation": "v4",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000392/v4/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000391/v4/1.webp"
     ]
   },
   {
-    "id": "000392",
+    "id": "000391",
     "title": "Tehi sanmam siz beni dost yüzün görüp geldim",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Yunus Emre",
@@ -12666,11 +12680,11 @@
     "variation": "v5",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000392/v5/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000391/v5/1.webp"
     ]
   },
   {
-    "id": "000392",
+    "id": "000391",
     "title": "Tehi sanmam siz beni dost yüzün görüp geldim",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Yunus Emre",
@@ -12680,11 +12694,11 @@
     "variation": "v6",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000392/v6/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000391/v6/1.webp"
     ]
   },
   {
-    "id": "000392",
+    "id": "000391",
     "title": "Tehi sanmam siz beni dost yüzün görüp geldim",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Yunus Emre",
@@ -12694,15 +12708,99 @@
     "variation": "v7",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000392/v7/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000391/v7/1.webp"
     ]
   },
   {
-    "id": "000393",
+    "id": "000392",
     "title": "Vasıl olmaz kimse Hakk’a cümleden dur olmadan",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Şemseddin Sivasi",
     "makam": "Gülizar",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v1",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000392/v1/1.webp"
+    ]
+  },
+  {
+    "id": "000392",
+    "title": "Vasıl olmaz kimse Hakk’a cümleden dur olmadan",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Şemseddin Sivasi",
+    "makam": "Gülizar",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000392/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000392",
+    "title": "Vasıl olmaz kimse Hakk’a cümleden dur olmadan",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Şemseddin Sivasi",
+    "makam": "Gülizar",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v3",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000392/v3/1.webp"
+    ]
+  },
+  {
+    "id": "000392",
+    "title": "Vasıl olmaz kimse Hakk’a cümleden dur olmadan",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Şemseddin Sivasi",
+    "makam": "Gülizar",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v4",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000392/v4/1.webp"
+    ]
+  },
+  {
+    "id": "000392",
+    "title": "Vasıl olmaz kimse Hakk’a cümleden dur olmadan",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Şemseddin Sivasi",
+    "makam": "Gülizar",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v5",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000392/v5/1.webp"
+    ]
+  },
+  {
+    "id": "000392",
+    "title": "Vasıl olmaz kimse Hakk’a cümleden dur olmadan",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Şemseddin Sivasi",
+    "makam": "Gülizar",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v6",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000392/v6/1.webp"
+    ]
+  },
+  {
+    "id": "000393",
+    "title": "Ey garip bülbül diyarın kandedir",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Niyaz-i Mısrî",
+    "makam": "Hicaz",
     "form": "İlahi",
     "usul": "Düyek",
     "variation": "v1",
@@ -12713,10 +12811,10 @@
   },
   {
     "id": "000393",
-    "title": "Vasıl olmaz kimse Hakk’a cümleden dur olmadan",
+    "title": "Ey garip bülbül diyarın kandedir",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Şemseddin Sivasi",
-    "makam": "Gülizar",
+    "lyricist": "Niyaz-i Mısrî",
+    "makam": "Hicaz",
     "form": "İlahi",
     "usul": "Düyek",
     "variation": "v2",
@@ -12727,10 +12825,10 @@
   },
   {
     "id": "000393",
-    "title": "Vasıl olmaz kimse Hakk’a cümleden dur olmadan",
+    "title": "Ey garip bülbül diyarın kandedir",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Şemseddin Sivasi",
-    "makam": "Gülizar",
+    "lyricist": "Niyaz-i Mısrî",
+    "makam": "Hicaz",
     "form": "İlahi",
     "usul": "Düyek",
     "variation": "v3",
@@ -12741,10 +12839,10 @@
   },
   {
     "id": "000393",
-    "title": "Vasıl olmaz kimse Hakk’a cümleden dur olmadan",
+    "title": "Ey garip bülbül diyarın kandedir",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Şemseddin Sivasi",
-    "makam": "Gülizar",
+    "lyricist": "Niyaz-i Mısrî",
+    "makam": "Hicaz",
     "form": "İlahi",
     "usul": "Düyek",
     "variation": "v4",
@@ -12755,10 +12853,10 @@
   },
   {
     "id": "000393",
-    "title": "Vasıl olmaz kimse Hakk’a cümleden dur olmadan",
+    "title": "Ey garip bülbül diyarın kandedir",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Şemseddin Sivasi",
-    "makam": "Gülizar",
+    "lyricist": "Niyaz-i Mısrî",
+    "makam": "Hicaz",
     "form": "İlahi",
     "usul": "Düyek",
     "variation": "v5",
@@ -12769,10 +12867,10 @@
   },
   {
     "id": "000393",
-    "title": "Vasıl olmaz kimse Hakk’a cümleden dur olmadan",
+    "title": "Ey garip bülbül diyarın kandedir",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Şemseddin Sivasi",
-    "makam": "Gülizar",
+    "lyricist": "Niyaz-i Mısrî",
+    "makam": "Hicaz",
     "form": "İlahi",
     "usul": "Düyek",
     "variation": "v6",
@@ -12782,91 +12880,7 @@
     ]
   },
   {
-    "id": "000394",
-    "title": "Ey garip bülbül diyarın kandedir",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Niyaz-i Mısrî",
-    "makam": "Hicaz",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v1",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000394/v1/1.webp"
-    ]
-  },
-  {
-    "id": "000394",
-    "title": "Ey garip bülbül diyarın kandedir",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Niyaz-i Mısrî",
-    "makam": "Hicaz",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v2",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000394/v2/1.webp"
-    ]
-  },
-  {
-    "id": "000394",
-    "title": "Ey garip bülbül diyarın kandedir",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Niyaz-i Mısrî",
-    "makam": "Hicaz",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v3",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000394/v3/1.webp"
-    ]
-  },
-  {
-    "id": "000394",
-    "title": "Ey garip bülbül diyarın kandedir",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Niyaz-i Mısrî",
-    "makam": "Hicaz",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v4",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000394/v4/1.webp"
-    ]
-  },
-  {
-    "id": "000394",
-    "title": "Ey garip bülbül diyarın kandedir",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Niyaz-i Mısrî",
-    "makam": "Hicaz",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v5",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000394/v5/1.webp"
-    ]
-  },
-  {
-    "id": "000394",
-    "title": "Ey garip bülbül diyarın kandedir",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Niyaz-i Mısrî",
-    "makam": "Hicaz",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v6",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000394/v6/1.webp"
-    ]
-  },
-  {
-    "id": "000394",
+    "id": "000393",
     "title": "Ey garip bülbül diyarın kandedir",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Niyaz-i Mısrî",
@@ -12876,17 +12890,73 @@
     "variation": "v7",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000394/v7/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000393/v7/1.webp"
     ]
   },
   {
-    "id": "000395",
+    "id": "000394",
     "title": "Müsahhar emrine hep cümle eşya",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Aziz Mahmud Hüdai Hz.",
     "makam": "Hicaz",
     "form": "İlahi",
     "usul": "Evsat",
+    "variation": "v1",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000394/v1/1.webp"
+    ]
+  },
+  {
+    "id": "000394",
+    "title": "Müsahhar emrine hep cümle eşya",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Aziz Mahmud Hüdai Hz.",
+    "makam": "Hicaz",
+    "form": "İlahi",
+    "usul": "Evsat",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000394/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000394",
+    "title": "Müsahhar emrine hep cümle eşya",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Aziz Mahmud Hüdai Hz.",
+    "makam": "Hicaz",
+    "form": "İlahi",
+    "usul": "Evsat",
+    "variation": "v3",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000394/v3/1.webp"
+    ]
+  },
+  {
+    "id": "000394",
+    "title": "Müsahhar emrine hep cümle eşya",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Aziz Mahmud Hüdai Hz.",
+    "makam": "Hicaz",
+    "form": "İlahi",
+    "usul": "Evsat",
+    "variation": "v4",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000394/v4/1.webp"
+    ]
+  },
+  {
+    "id": "000395",
+    "title": "Bir yüze duş oldu gönlüm yüzbin onun divanesi",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Niyaz-i Mısrî",
+    "makam": "Hüseyni",
+    "form": "İlahi",
+    "usul": "Nim Evsat",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -12895,12 +12965,12 @@
   },
   {
     "id": "000395",
-    "title": "Müsahhar emrine hep cümle eşya",
+    "title": "Bir yüze duş oldu gönlüm yüzbin onun divanesi",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Aziz Mahmud Hüdai Hz.",
-    "makam": "Hicaz",
+    "lyricist": "Niyaz-i Mısrî",
+    "makam": "Hüseyni",
     "form": "İlahi",
-    "usul": "Evsat",
+    "usul": "Nim Evsat",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -12909,12 +12979,12 @@
   },
   {
     "id": "000395",
-    "title": "Müsahhar emrine hep cümle eşya",
+    "title": "Bir yüze duş oldu gönlüm yüzbin onun divanesi",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Aziz Mahmud Hüdai Hz.",
-    "makam": "Hicaz",
+    "lyricist": "Niyaz-i Mısrî",
+    "makam": "Hüseyni",
     "form": "İlahi",
-    "usul": "Evsat",
+    "usul": "Nim Evsat",
     "variation": "v3",
     "pageCount": 1,
     "pages": [
@@ -12923,12 +12993,12 @@
   },
   {
     "id": "000395",
-    "title": "Müsahhar emrine hep cümle eşya",
+    "title": "Bir yüze duş oldu gönlüm yüzbin onun divanesi",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Aziz Mahmud Hüdai Hz.",
-    "makam": "Hicaz",
+    "lyricist": "Niyaz-i Mısrî",
+    "makam": "Hüseyni",
     "form": "İlahi",
-    "usul": "Evsat",
+    "usul": "Nim Evsat",
     "variation": "v4",
     "pageCount": 1,
     "pages": [
@@ -12936,13 +13006,27 @@
     ]
   },
   {
-    "id": "000396",
+    "id": "000395",
     "title": "Bir yüze duş oldu gönlüm yüzbin onun divanesi",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Niyaz-i Mısrî",
     "makam": "Hüseyni",
     "form": "İlahi",
     "usul": "Nim Evsat",
+    "variation": "v5",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000395/v5/1.webp"
+    ]
+  },
+  {
+    "id": "000396",
+    "title": "Erenlerin sohbeti ele giresi değil",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Sinan Ümmi",
+    "makam": "Hüseyni",
+    "form": "İlahi",
+    "usul": "Düyek",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -12951,12 +13035,12 @@
   },
   {
     "id": "000396",
-    "title": "Bir yüze duş oldu gönlüm yüzbin onun divanesi",
+    "title": "Erenlerin sohbeti ele giresi değil",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Niyaz-i Mısrî",
+    "lyricist": "Sinan Ümmi",
     "makam": "Hüseyni",
     "form": "İlahi",
-    "usul": "Nim Evsat",
+    "usul": "Düyek",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -12965,12 +13049,12 @@
   },
   {
     "id": "000396",
-    "title": "Bir yüze duş oldu gönlüm yüzbin onun divanesi",
+    "title": "Erenlerin sohbeti ele giresi değil",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Niyaz-i Mısrî",
+    "lyricist": "Sinan Ümmi",
     "makam": "Hüseyni",
     "form": "İlahi",
-    "usul": "Nim Evsat",
+    "usul": "Düyek",
     "variation": "v3",
     "pageCount": 1,
     "pages": [
@@ -12979,12 +13063,12 @@
   },
   {
     "id": "000396",
-    "title": "Bir yüze duş oldu gönlüm yüzbin onun divanesi",
+    "title": "Erenlerin sohbeti ele giresi değil",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Niyaz-i Mısrî",
+    "lyricist": "Sinan Ümmi",
     "makam": "Hüseyni",
     "form": "İlahi",
-    "usul": "Nim Evsat",
+    "usul": "Düyek",
     "variation": "v4",
     "pageCount": 1,
     "pages": [
@@ -12992,27 +13076,13 @@
     ]
   },
   {
-    "id": "000396",
-    "title": "Bir yüze duş oldu gönlüm yüzbin onun divanesi",
+    "id": "000397",
+    "title": "Kıldan ince ve kılıçdan keskin ol Şahin yolu",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Niyaz-i Mısrî",
-    "makam": "Hüseyni",
+    "makam": "Hüseyni Aşiran",
     "form": "İlahi",
-    "usul": "Nim Evsat",
-    "variation": "v5",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000396/v5/1.webp"
-    ]
-  },
-  {
-    "id": "000397",
-    "title": "Erenlerin sohbeti ele giresi değil",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Sinan Ümmi",
-    "makam": "Hüseyni",
-    "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Evsat",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -13021,12 +13091,12 @@
   },
   {
     "id": "000397",
-    "title": "Erenlerin sohbeti ele giresi değil",
+    "title": "Kıldan ince ve kılıçdan keskin ol Şahin yolu",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Sinan Ümmi",
-    "makam": "Hüseyni",
+    "lyricist": "Niyaz-i Mısrî",
+    "makam": "Hüseyni Aşiran",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Evsat",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -13035,12 +13105,12 @@
   },
   {
     "id": "000397",
-    "title": "Erenlerin sohbeti ele giresi değil",
+    "title": "Kıldan ince ve kılıçdan keskin ol Şahin yolu",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Sinan Ümmi",
-    "makam": "Hüseyni",
+    "lyricist": "Niyaz-i Mısrî",
+    "makam": "Hüseyni Aşiran",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Evsat",
     "variation": "v3",
     "pageCount": 1,
     "pages": [
@@ -13049,12 +13119,12 @@
   },
   {
     "id": "000397",
-    "title": "Erenlerin sohbeti ele giresi değil",
+    "title": "Kıldan ince ve kılıçdan keskin ol Şahin yolu",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Sinan Ümmi",
-    "makam": "Hüseyni",
+    "lyricist": "Niyaz-i Mısrî",
+    "makam": "Hüseyni Aşiran",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Evsat",
     "variation": "v4",
     "pageCount": 1,
     "pages": [
@@ -13062,63 +13132,7 @@
     ]
   },
   {
-    "id": "000398",
-    "title": "Kıldan ince ve kılıçdan keskin ol Şahin yolu",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Niyaz-i Mısrî",
-    "makam": "Hüseyni Aşiran",
-    "form": "İlahi",
-    "usul": "Evsat",
-    "variation": "v1",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000398/v1/1.webp"
-    ]
-  },
-  {
-    "id": "000398",
-    "title": "Kıldan ince ve kılıçdan keskin ol Şahin yolu",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Niyaz-i Mısrî",
-    "makam": "Hüseyni Aşiran",
-    "form": "İlahi",
-    "usul": "Evsat",
-    "variation": "v2",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000398/v2/1.webp"
-    ]
-  },
-  {
-    "id": "000398",
-    "title": "Kıldan ince ve kılıçdan keskin ol Şahin yolu",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Niyaz-i Mısrî",
-    "makam": "Hüseyni Aşiran",
-    "form": "İlahi",
-    "usul": "Evsat",
-    "variation": "v3",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000398/v3/1.webp"
-    ]
-  },
-  {
-    "id": "000398",
-    "title": "Kıldan ince ve kılıçdan keskin ol Şahin yolu",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Niyaz-i Mısrî",
-    "makam": "Hüseyni Aşiran",
-    "form": "İlahi",
-    "usul": "Evsat",
-    "variation": "v4",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000398/v4/1.webp"
-    ]
-  },
-  {
-    "id": "000398",
+    "id": "000397",
     "title": "Kıldan ince ve kılıçdan keskin ol Şahin yolu",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Niyaz-i Mısrî",
@@ -13128,17 +13142,59 @@
     "variation": "v5",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000398/v5/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000397/v5/1.webp"
     ]
   },
   {
-    "id": "000399",
+    "id": "000398",
     "title": "Gir semaa zikr ile gel yane yane Hu deyu",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Niyaz-i Mısrî",
     "makam": "Mahur",
     "form": "İlahi",
     "usul": "Devr-i Revan",
+    "variation": "v1",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000398/v1/1.webp"
+    ]
+  },
+  {
+    "id": "000398",
+    "title": "Gir semaa zikr ile gel yane yane Hu deyu",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Niyaz-i Mısrî",
+    "makam": "Mahur",
+    "form": "İlahi",
+    "usul": "Devr-i Revan",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000398/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000398",
+    "title": "Gir semaa zikr ile gel yane yane Hu deyu",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Niyaz-i Mısrî",
+    "makam": "Mahur",
+    "form": "İlahi",
+    "usul": "Devr-i Revan",
+    "variation": "v3",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000398/v3/1.webp"
+    ]
+  },
+  {
+    "id": "000399",
+    "title": "Ahval-i serencamım bu saate erince",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Niyaz-i Mısrî",
+    "makam": "Muhayyer",
+    "form": "İlahi",
+    "usul": "Düyek",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -13147,12 +13203,12 @@
   },
   {
     "id": "000399",
-    "title": "Gir semaa zikr ile gel yane yane Hu deyu",
+    "title": "Ahval-i serencamım bu saate erince",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Niyaz-i Mısrî",
-    "makam": "Mahur",
+    "makam": "Muhayyer",
     "form": "İlahi",
-    "usul": "Devr-i Revan",
+    "usul": "Düyek",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -13161,12 +13217,12 @@
   },
   {
     "id": "000399",
-    "title": "Gir semaa zikr ile gel yane yane Hu deyu",
+    "title": "Ahval-i serencamım bu saate erince",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Niyaz-i Mısrî",
-    "makam": "Mahur",
+    "makam": "Muhayyer",
     "form": "İlahi",
-    "usul": "Devr-i Revan",
+    "usul": "Düyek",
     "variation": "v3",
     "pageCount": 1,
     "pages": [
@@ -13175,12 +13231,12 @@
   },
   {
     "id": "000400",
-    "title": "Ahval-i serencamım bu saate erince",
+    "title": "Cümle alem aşina ben ona bi-ganeyim",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Niyaz-i Mısrî",
+    "lyricist": "Şemsi",
     "makam": "Muhayyer",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Devr-i Hindi",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -13189,12 +13245,12 @@
   },
   {
     "id": "000400",
-    "title": "Ahval-i serencamım bu saate erince",
+    "title": "Cümle alem aşina ben ona bi-ganeyim",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Niyaz-i Mısrî",
+    "lyricist": "Şemsi",
     "makam": "Muhayyer",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Devr-i Hindi",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -13203,12 +13259,12 @@
   },
   {
     "id": "000400",
-    "title": "Ahval-i serencamım bu saate erince",
+    "title": "Cümle alem aşina ben ona bi-ganeyim",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Niyaz-i Mısrî",
+    "lyricist": "Şemsi",
     "makam": "Muhayyer",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Devr-i Hindi",
     "variation": "v3",
     "pageCount": 1,
     "pages": [
@@ -13216,49 +13272,7 @@
     ]
   },
   {
-    "id": "000401",
-    "title": "Cümle alem aşina ben ona bi-ganeyim",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Şemsi",
-    "makam": "Muhayyer",
-    "form": "İlahi",
-    "usul": "Devr-i Hindi",
-    "variation": "v1",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000401/v1/1.webp"
-    ]
-  },
-  {
-    "id": "000401",
-    "title": "Cümle alem aşina ben ona bi-ganeyim",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Şemsi",
-    "makam": "Muhayyer",
-    "form": "İlahi",
-    "usul": "Devr-i Hindi",
-    "variation": "v2",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000401/v2/1.webp"
-    ]
-  },
-  {
-    "id": "000401",
-    "title": "Cümle alem aşina ben ona bi-ganeyim",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Şemsi",
-    "makam": "Muhayyer",
-    "form": "İlahi",
-    "usul": "Devr-i Hindi",
-    "variation": "v3",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000401/v3/1.webp"
-    ]
-  },
-  {
-    "id": "000401",
+    "id": "000400",
     "title": "Cümle alem aşina ben ona bi-ganeyim",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Şemsi",
@@ -13268,17 +13282,101 @@
     "variation": "V4",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000401/V4/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000400/V4/1.webp"
     ]
   },
   {
-    "id": "000402",
+    "id": "000401",
     "title": "Hakk’a aşık olanlar zikrullahdan kaçarmı",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Üftade Mehmet Muhyittin",
     "makam": "Rast",
     "form": "İlahi",
     "usul": "Sofyan",
+    "variation": "v1",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000401/v1/1.webp"
+    ]
+  },
+  {
+    "id": "000401",
+    "title": "Hakk’a aşık olanlar zikrullahdan kaçarmı",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Üftade Mehmet Muhyittin",
+    "makam": "Rast",
+    "form": "İlahi",
+    "usul": "Sofyan",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000401/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000401",
+    "title": "Hakk’a aşık olanlar zikrullahdan kaçarmı",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Üftade Mehmet Muhyittin",
+    "makam": "Rast",
+    "form": "İlahi",
+    "usul": "Sofyan",
+    "variation": "v3",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000401/v3/1.webp"
+    ]
+  },
+  {
+    "id": "000401",
+    "title": "Hakk’a aşık olanlar zikrullahdan kaçarmı",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Üftade Mehmet Muhyittin",
+    "makam": "Rast",
+    "form": "İlahi",
+    "usul": "Sofyan",
+    "variation": "v4",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000401/v4/1.webp"
+    ]
+  },
+  {
+    "id": "000401",
+    "title": "Hakk’a aşık olanlar zikrullahdan kaçarmı",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Üftade Mehmet Muhyittin",
+    "makam": "Rast",
+    "form": "İlahi",
+    "usul": "Sofyan",
+    "variation": "v5",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000401/v5/1.webp"
+    ]
+  },
+  {
+    "id": "000401",
+    "title": "Hakk’a aşık olanlar zikrullahdan kaçarmı",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Üftade Mehmet Muhyittin",
+    "makam": "Rast",
+    "form": "İlahi",
+    "usul": "Sofyan",
+    "variation": "v6",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000401/v6/1.webp"
+    ]
+  },
+  {
+    "id": "000402",
+    "title": "Kandedir cehl ile zulmet nefs-i su’banındadır",
+    "composer": "Ali Şirügani Dede",
+    "lyricist": "Nizamoğlu Seyyid Seyfullah",
+    "makam": "Saba",
+    "form": "İlahi",
+    "usul": "Evsat",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -13287,12 +13385,12 @@
   },
   {
     "id": "000402",
-    "title": "Hakk’a aşık olanlar zikrullahdan kaçarmı",
+    "title": "Kandedir cehl ile zulmet nefs-i su’banındadır",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Üftade Mehmet Muhyittin",
-    "makam": "Rast",
+    "lyricist": "Nizamoğlu Seyyid Seyfullah",
+    "makam": "Saba",
     "form": "İlahi",
-    "usul": "Sofyan",
+    "usul": "Evsat",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -13301,12 +13399,12 @@
   },
   {
     "id": "000402",
-    "title": "Hakk’a aşık olanlar zikrullahdan kaçarmı",
+    "title": "Kandedir cehl ile zulmet nefs-i su’banındadır",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Üftade Mehmet Muhyittin",
-    "makam": "Rast",
+    "lyricist": "Nizamoğlu Seyyid Seyfullah",
+    "makam": "Saba",
     "form": "İlahi",
-    "usul": "Sofyan",
+    "usul": "Evsat",
     "variation": "v3",
     "pageCount": 1,
     "pages": [
@@ -13315,12 +13413,12 @@
   },
   {
     "id": "000402",
-    "title": "Hakk’a aşık olanlar zikrullahdan kaçarmı",
+    "title": "Kandedir cehl ile zulmet nefs-i su’banındadır",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Üftade Mehmet Muhyittin",
-    "makam": "Rast",
+    "lyricist": "Nizamoğlu Seyyid Seyfullah",
+    "makam": "Saba",
     "form": "İlahi",
-    "usul": "Sofyan",
+    "usul": "Evsat",
     "variation": "v4",
     "pageCount": 1,
     "pages": [
@@ -13329,12 +13427,12 @@
   },
   {
     "id": "000402",
-    "title": "Hakk’a aşık olanlar zikrullahdan kaçarmı",
+    "title": "Kandedir cehl ile zulmet nefs-i su’banındadır",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Üftade Mehmet Muhyittin",
-    "makam": "Rast",
+    "lyricist": "Nizamoğlu Seyyid Seyfullah",
+    "makam": "Saba",
     "form": "İlahi",
-    "usul": "Sofyan",
+    "usul": "Evsat",
     "variation": "v5",
     "pageCount": 1,
     "pages": [
@@ -13343,12 +13441,12 @@
   },
   {
     "id": "000402",
-    "title": "Hakk’a aşık olanlar zikrullahdan kaçarmı",
+    "title": "Kandedir cehl ile zulmet nefs-i su’banındadır",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Üftade Mehmet Muhyittin",
-    "makam": "Rast",
+    "lyricist": "Nizamoğlu Seyyid Seyfullah",
+    "makam": "Saba",
     "form": "İlahi",
-    "usul": "Sofyan",
+    "usul": "Evsat",
     "variation": "v6",
     "pageCount": 1,
     "pages": [
@@ -13357,12 +13455,12 @@
   },
   {
     "id": "000403",
-    "title": "Kandedir cehl ile zulmet nefs-i su’banındadır",
+    "title": "Ey gafil uyan rıhlet-i na-gahı unutma",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Nizamoğlu Seyyid Seyfullah",
-    "makam": "Saba",
+    "lyricist": "Şemseddin Sivasi",
+    "makam": "Segah",
     "form": "İlahi",
-    "usul": "Evsat",
+    "usul": "Sofyan",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -13371,12 +13469,12 @@
   },
   {
     "id": "000403",
-    "title": "Kandedir cehl ile zulmet nefs-i su’banındadır",
+    "title": "Ey gafil uyan rıhlet-i na-gahı unutma",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Nizamoğlu Seyyid Seyfullah",
-    "makam": "Saba",
+    "lyricist": "Şemseddin Sivasi",
+    "makam": "Segah",
     "form": "İlahi",
-    "usul": "Evsat",
+    "usul": "Sofyan",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -13385,12 +13483,12 @@
   },
   {
     "id": "000403",
-    "title": "Kandedir cehl ile zulmet nefs-i su’banındadır",
+    "title": "Ey gafil uyan rıhlet-i na-gahı unutma",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Nizamoğlu Seyyid Seyfullah",
-    "makam": "Saba",
+    "lyricist": "Şemseddin Sivasi",
+    "makam": "Segah",
     "form": "İlahi",
-    "usul": "Evsat",
+    "usul": "Sofyan",
     "variation": "v3",
     "pageCount": 1,
     "pages": [
@@ -13399,12 +13497,12 @@
   },
   {
     "id": "000403",
-    "title": "Kandedir cehl ile zulmet nefs-i su’banındadır",
+    "title": "Ey gafil uyan rıhlet-i na-gahı unutma",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Nizamoğlu Seyyid Seyfullah",
-    "makam": "Saba",
+    "lyricist": "Şemseddin Sivasi",
+    "makam": "Segah",
     "form": "İlahi",
-    "usul": "Evsat",
+    "usul": "Sofyan",
     "variation": "v4",
     "pageCount": 1,
     "pages": [
@@ -13413,12 +13511,12 @@
   },
   {
     "id": "000403",
-    "title": "Kandedir cehl ile zulmet nefs-i su’banındadır",
+    "title": "Ey gafil uyan rıhlet-i na-gahı unutma",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Nizamoğlu Seyyid Seyfullah",
-    "makam": "Saba",
+    "lyricist": "Şemseddin Sivasi",
+    "makam": "Segah",
     "form": "İlahi",
-    "usul": "Evsat",
+    "usul": "Sofyan",
     "variation": "v5",
     "pageCount": 1,
     "pages": [
@@ -13427,12 +13525,12 @@
   },
   {
     "id": "000403",
-    "title": "Kandedir cehl ile zulmet nefs-i su’banındadır",
+    "title": "Ey gafil uyan rıhlet-i na-gahı unutma",
     "composer": "Ali Şirügani Dede",
-    "lyricist": "Nizamoğlu Seyyid Seyfullah",
-    "makam": "Saba",
+    "lyricist": "Şemseddin Sivasi",
+    "makam": "Segah",
     "form": "İlahi",
-    "usul": "Evsat",
+    "usul": "Sofyan",
     "variation": "v6",
     "pageCount": 1,
     "pages": [
@@ -13440,91 +13538,7 @@
     ]
   },
   {
-    "id": "000404",
-    "title": "Ey gafil uyan rıhlet-i na-gahı unutma",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Şemseddin Sivasi",
-    "makam": "Segah",
-    "form": "İlahi",
-    "usul": "Sofyan",
-    "variation": "v1",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000404/v1/1.webp"
-    ]
-  },
-  {
-    "id": "000404",
-    "title": "Ey gafil uyan rıhlet-i na-gahı unutma",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Şemseddin Sivasi",
-    "makam": "Segah",
-    "form": "İlahi",
-    "usul": "Sofyan",
-    "variation": "v2",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000404/v2/1.webp"
-    ]
-  },
-  {
-    "id": "000404",
-    "title": "Ey gafil uyan rıhlet-i na-gahı unutma",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Şemseddin Sivasi",
-    "makam": "Segah",
-    "form": "İlahi",
-    "usul": "Sofyan",
-    "variation": "v3",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000404/v3/1.webp"
-    ]
-  },
-  {
-    "id": "000404",
-    "title": "Ey gafil uyan rıhlet-i na-gahı unutma",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Şemseddin Sivasi",
-    "makam": "Segah",
-    "form": "İlahi",
-    "usul": "Sofyan",
-    "variation": "v4",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000404/v4/1.webp"
-    ]
-  },
-  {
-    "id": "000404",
-    "title": "Ey gafil uyan rıhlet-i na-gahı unutma",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Şemseddin Sivasi",
-    "makam": "Segah",
-    "form": "İlahi",
-    "usul": "Sofyan",
-    "variation": "v5",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000404/v5/1.webp"
-    ]
-  },
-  {
-    "id": "000404",
-    "title": "Ey gafil uyan rıhlet-i na-gahı unutma",
-    "composer": "Ali Şirügani Dede",
-    "lyricist": "Şemseddin Sivasi",
-    "makam": "Segah",
-    "form": "İlahi",
-    "usul": "Sofyan",
-    "variation": "v6",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000404/v6/1.webp"
-    ]
-  },
-  {
-    "id": "000404",
+    "id": "000403",
     "title": "Ey gafil uyan rıhlet-i na-gahı unutma",
     "composer": "Ali Şirügani Dede",
     "lyricist": "Şemseddin Sivasi",
@@ -13534,17 +13548,59 @@
     "variation": "v7",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000404/v7/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000403/v7/1.webp"
     ]
   },
   {
-    "id": "000405",
+    "id": "000404",
     "title": "Allah Allah Hu İleyke netevve Hu",
     "composer": "Ali Ufki Bey",
     "lyricist": "",
     "makam": "Hüseyni",
     "form": "İlahi",
     "usul": "Ağır Düyek",
+    "variation": "v1",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000404/v1/1.webp"
+    ]
+  },
+  {
+    "id": "000404",
+    "title": "Allah Allah Hu İleyke netevve Hu",
+    "composer": "Ali Ufki Bey",
+    "lyricist": "",
+    "makam": "Hüseyni",
+    "form": "İlahi",
+    "usul": "Ağır Düyek",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000404/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000404",
+    "title": "Allah Allah Hu İleyke netevve Hu",
+    "composer": "Ali Ufki Bey",
+    "lyricist": "",
+    "makam": "Hüseyni",
+    "form": "İlahi",
+    "usul": "Ağır Düyek",
+    "variation": "v3",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000404/v3/1.webp"
+    ]
+  },
+  {
+    "id": "000405",
+    "title": "Bahr-i umman dürriyem yerim mekanım kandedir",
+    "composer": "Ali Ufki Bey",
+    "lyricist": "Eşrefoğlu Rûmî",
+    "makam": "Hüseyni",
+    "form": "İlahi",
+    "usul": "Düyek",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -13553,12 +13609,12 @@
   },
   {
     "id": "000405",
-    "title": "Allah Allah Hu İleyke netevve Hu",
+    "title": "Bahr-i umman dürriyem yerim mekanım kandedir",
     "composer": "Ali Ufki Bey",
-    "lyricist": "",
+    "lyricist": "Eşrefoğlu Rûmî",
     "makam": "Hüseyni",
     "form": "İlahi",
-    "usul": "Ağır Düyek",
+    "usul": "Düyek",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -13567,12 +13623,12 @@
   },
   {
     "id": "000405",
-    "title": "Allah Allah Hu İleyke netevve Hu",
+    "title": "Bahr-i umman dürriyem yerim mekanım kandedir",
     "composer": "Ali Ufki Bey",
-    "lyricist": "",
+    "lyricist": "Eşrefoğlu Rûmî",
     "makam": "Hüseyni",
     "form": "İlahi",
-    "usul": "Ağır Düyek",
+    "usul": "Düyek",
     "variation": "v3",
     "pageCount": 1,
     "pages": [
@@ -13581,12 +13637,12 @@
   },
   {
     "id": "000406",
-    "title": "Bahr-i umman dürriyem yerim mekanım kandedir",
+    "title": "Hak Teala seni bize nur-i gufran eylemiş",
     "composer": "Ali Ufki Bey",
-    "lyricist": "Eşrefoğlu Rûmî",
-    "makam": "Hüseyni",
+    "lyricist": "",
+    "makam": "Uşşak",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Sofyan",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -13595,12 +13651,12 @@
   },
   {
     "id": "000406",
-    "title": "Bahr-i umman dürriyem yerim mekanım kandedir",
+    "title": "Hak Teala seni bize nur-i gufran eylemiş",
     "composer": "Ali Ufki Bey",
-    "lyricist": "Eşrefoğlu Rûmî",
-    "makam": "Hüseyni",
+    "lyricist": "",
+    "makam": "Uşşak",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Sofyan",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -13609,12 +13665,12 @@
   },
   {
     "id": "000406",
-    "title": "Bahr-i umman dürriyem yerim mekanım kandedir",
+    "title": "Hak Teala seni bize nur-i gufran eylemiş",
     "composer": "Ali Ufki Bey",
-    "lyricist": "Eşrefoğlu Rûmî",
-    "makam": "Hüseyni",
+    "lyricist": "",
+    "makam": "Uşşak",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Sofyan",
     "variation": "v3",
     "pageCount": 1,
     "pages": [
@@ -13623,12 +13679,12 @@
   },
   {
     "id": "000407",
-    "title": "Hak Teala seni bize nur-i gufran eylemiş",
+    "title": "Kamu işim hata estağfirullah",
     "composer": "Ali Ufki Bey",
     "lyricist": "",
-    "makam": "Uşşak",
+    "makam": "Eviç",
     "form": "İlahi",
-    "usul": "Sofyan",
+    "usul": "Semai",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -13637,12 +13693,12 @@
   },
   {
     "id": "000407",
-    "title": "Hak Teala seni bize nur-i gufran eylemiş",
+    "title": "Kamu işim hata estağfirullah",
     "composer": "Ali Ufki Bey",
     "lyricist": "",
-    "makam": "Uşşak",
+    "makam": "Eviç",
     "form": "İlahi",
-    "usul": "Sofyan",
+    "usul": "Semai",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -13651,12 +13707,12 @@
   },
   {
     "id": "000407",
-    "title": "Hak Teala seni bize nur-i gufran eylemiş",
+    "title": "Kamu işim hata estağfirullah",
     "composer": "Ali Ufki Bey",
     "lyricist": "",
-    "makam": "Uşşak",
+    "makam": "Eviç",
     "form": "İlahi",
-    "usul": "Sofyan",
+    "usul": "Semai",
     "variation": "v3",
     "pageCount": 1,
     "pages": [
@@ -13665,12 +13721,12 @@
   },
   {
     "id": "000408",
-    "title": "Kamu işim hata estağfirullah",
+    "title": "Ya İlahi senden guddet",
     "composer": "Ali Ufki Bey",
     "lyricist": "",
-    "makam": "Eviç",
+    "makam": "Acem",
     "form": "İlahi",
-    "usul": "Semai",
+    "usul": "Aksak- Aksak Semai",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -13679,12 +13735,12 @@
   },
   {
     "id": "000408",
-    "title": "Kamu işim hata estağfirullah",
+    "title": "Ya İlahi senden guddet",
     "composer": "Ali Ufki Bey",
     "lyricist": "",
-    "makam": "Eviç",
+    "makam": "Acem",
     "form": "İlahi",
-    "usul": "Semai",
+    "usul": "Aksak- Aksak Semai",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -13693,12 +13749,12 @@
   },
   {
     "id": "000408",
-    "title": "Kamu işim hata estağfirullah",
+    "title": "Ya İlahi senden guddet",
     "composer": "Ali Ufki Bey",
     "lyricist": "",
-    "makam": "Eviç",
+    "makam": "Acem",
     "form": "İlahi",
-    "usul": "Semai",
+    "usul": "Aksak- Aksak Semai",
     "variation": "v3",
     "pageCount": 1,
     "pages": [
@@ -13707,12 +13763,12 @@
   },
   {
     "id": "000409",
-    "title": "Ya İlahi senden guddet",
-    "composer": "Ali Ufki Bey",
-    "lyricist": "",
-    "makam": "Acem",
+    "title": "Çün sana gönlüm mübtela düştü",
+    "composer": "Alim Efendi",
+    "lyricist": "Niyaz-i Mısrî",
+    "makam": "Eviç",
     "form": "İlahi",
-    "usul": "Aksak- Aksak Semai",
+    "usul": "Yürük Semai",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -13721,12 +13777,12 @@
   },
   {
     "id": "000409",
-    "title": "Ya İlahi senden guddet",
-    "composer": "Ali Ufki Bey",
-    "lyricist": "",
-    "makam": "Acem",
+    "title": "Çün sana gönlüm mübtela düştü",
+    "composer": "Alim Efendi",
+    "lyricist": "Niyaz-i Mısrî",
+    "makam": "Eviç",
     "form": "İlahi",
-    "usul": "Aksak- Aksak Semai",
+    "usul": "Yürük Semai",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -13735,12 +13791,12 @@
   },
   {
     "id": "000409",
-    "title": "Ya İlahi senden guddet",
-    "composer": "Ali Ufki Bey",
-    "lyricist": "",
-    "makam": "Acem",
+    "title": "Çün sana gönlüm mübtela düştü",
+    "composer": "Alim Efendi",
+    "lyricist": "Niyaz-i Mısrî",
+    "makam": "Eviç",
     "form": "İlahi",
-    "usul": "Aksak- Aksak Semai",
+    "usul": "Yürük Semai",
     "variation": "v3",
     "pageCount": 1,
     "pages": [
@@ -13748,49 +13804,7 @@
     ]
   },
   {
-    "id": "000410",
-    "title": "Çün sana gönlüm mübtela düştü",
-    "composer": "Alim Efendi",
-    "lyricist": "Niyaz-i Mısrî",
-    "makam": "Eviç",
-    "form": "İlahi",
-    "usul": "Yürük Semai",
-    "variation": "v1",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000410/v1/1.webp"
-    ]
-  },
-  {
-    "id": "000410",
-    "title": "Çün sana gönlüm mübtela düştü",
-    "composer": "Alim Efendi",
-    "lyricist": "Niyaz-i Mısrî",
-    "makam": "Eviç",
-    "form": "İlahi",
-    "usul": "Yürük Semai",
-    "variation": "v2",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000410/v2/1.webp"
-    ]
-  },
-  {
-    "id": "000410",
-    "title": "Çün sana gönlüm mübtela düştü",
-    "composer": "Alim Efendi",
-    "lyricist": "Niyaz-i Mısrî",
-    "makam": "Eviç",
-    "form": "İlahi",
-    "usul": "Yürük Semai",
-    "variation": "v3",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000410/v3/1.webp"
-    ]
-  },
-  {
-    "id": "000410",
+    "id": "000409",
     "title": "Çün sana gönlüm mübtela düştü",
     "composer": "Alim Efendi",
     "lyricist": "Niyaz-i Mısrî",
@@ -13800,11 +13814,11 @@
     "variation": "v4",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000410/v4/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000409/v4/1.webp"
     ]
   },
   {
-    "id": "000411",
+    "id": "000410",
     "title": "Hak Hak diyen aşıklar",
     "composer": "Alim Gülüm Dede",
     "lyricist": "Fecri",
@@ -13814,11 +13828,11 @@
     "variation": "v1",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000411/v1/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000410/v1/1.webp"
     ]
   },
   {
-    "id": "000412",
+    "id": "000411",
     "title": "Şükr-ü minnet eylerim Halık-ı Ekvan’a ben",
     "composer": "Alper Akaryıldız",
     "lyricist": "Abdullah Nazırlı",
@@ -13828,15 +13842,29 @@
     "variation": "v1",
     "pageCount": 1,
     "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000411/v1/1.webp"
+    ]
+  },
+  {
+    "id": "000412",
+    "title": "Tenim Toprak tozar yolca",
+    "composer": "Aluş Nuş",
+    "lyricist": "Yunus Emre",
+    "makam": "Segah",
+    "form": "İlahi",
+    "usul": "Sofyan",
+    "variation": "v1",
+    "pageCount": 1,
+    "pages": [
       "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000412/v1/1.webp"
     ]
   },
   {
     "id": "000413",
-    "title": "Tenim Toprak tozar yolca",
-    "composer": "Aluş Nuş",
-    "lyricist": "Yunus Emre",
-    "makam": "Segah",
+    "title": "Biz aşkperestiz din iman ara sen",
+    "composer": "Amir Ateş",
+    "lyricist": "Bekir Sıtkı Erdoğan",
+    "makam": "Acem Aşiran",
     "form": "İlahi",
     "usul": "Sofyan",
     "variation": "v1",
@@ -13847,9 +13875,9 @@
   },
   {
     "id": "000414",
-    "title": "Biz aşkperestiz din iman ara sen",
+    "title": "Hikmeti varı yoğun La İlahe İllallah",
     "composer": "Amir Ateş",
-    "lyricist": "Bekir Sıtkı Erdoğan",
+    "lyricist": "Feyzi Halıcı",
     "makam": "Acem Aşiran",
     "form": "İlahi",
     "usul": "Sofyan",
@@ -13860,21 +13888,7 @@
     ]
   },
   {
-    "id": "000415",
-    "title": "Hikmeti varı yoğun La İlahe İllallah",
-    "composer": "Amir Ateş",
-    "lyricist": "Feyzi Halıcı",
-    "makam": "Acem Aşiran",
-    "form": "İlahi",
-    "usul": "Sofyan",
-    "variation": "v1",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000415/v1/1.webp"
-    ]
-  },
-  {
-    "id": "000415",
+    "id": "000414",
     "title": "Hikmeti varı yoğun La İlahe İllallah",
     "composer": "Amir Ateş",
     "lyricist": "Feyzi Halıcı",
@@ -13884,11 +13898,11 @@
     "variation": "v2",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000415/v2/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000414/v2/1.webp"
     ]
   },
   {
-    "id": "000415",
+    "id": "000414",
     "title": "Hikmeti varı yoğun La İlahe İllallah",
     "composer": "Amir Ateş",
     "lyricist": "Feyzi Halıcı",
@@ -13898,15 +13912,57 @@
     "variation": "v3",
     "pageCount": 1,
     "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000414/v3/1.webp"
+    ]
+  },
+  {
+    "id": "000415",
+    "title": "Senin hicran-ı aşkınla ilahi aşıkan ağlar",
+    "composer": "Amir Ateş",
+    "lyricist": "",
+    "makam": "Acem Aşiran",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v1",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000415/v1/1.webp"
+    ]
+  },
+  {
+    "id": "000415",
+    "title": "Senin hicran-ı aşkınla ilahi aşıkan ağlar",
+    "composer": "Amir Ateş",
+    "lyricist": "",
+    "makam": "Acem Aşiran",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000415/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000415",
+    "title": "Senin hicran-ı aşkınla ilahi aşıkan ağlar",
+    "composer": "Amir Ateş",
+    "lyricist": "",
+    "makam": "Acem Aşiran",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v3",
+    "pageCount": 1,
+    "pages": [
       "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000415/v3/1.webp"
     ]
   },
   {
     "id": "000416",
-    "title": "Senin hicran-ı aşkınla ilahi aşıkan ağlar",
+    "title": "Benim maksudum alemde değildir laki illa Hu",
     "composer": "Amir Ateş",
-    "lyricist": "",
-    "makam": "Acem Aşiran",
+    "lyricist": "Aziz Mahmud Hüdai Hz.",
+    "makam": "Bayati",
     "form": "İlahi",
     "usul": "Düyek",
     "variation": "v1",
@@ -13917,10 +13973,10 @@
   },
   {
     "id": "000416",
-    "title": "Senin hicran-ı aşkınla ilahi aşıkan ağlar",
+    "title": "Benim maksudum alemde değildir laki illa Hu",
     "composer": "Amir Ateş",
-    "lyricist": "",
-    "makam": "Acem Aşiran",
+    "lyricist": "Aziz Mahmud Hüdai Hz.",
+    "makam": "Bayati",
     "form": "İlahi",
     "usul": "Düyek",
     "variation": "v2",
@@ -13930,24 +13986,10 @@
     ]
   },
   {
-    "id": "000416",
-    "title": "Senin hicran-ı aşkınla ilahi aşıkan ağlar",
-    "composer": "Amir Ateş",
-    "lyricist": "",
-    "makam": "Acem Aşiran",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v3",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000416/v3/1.webp"
-    ]
-  },
-  {
     "id": "000417",
-    "title": "Benim maksudum alemde değildir laki illa Hu",
+    "title": "İlahi bir güneşsin nuruna pervanedir alem",
     "composer": "Amir Ateş",
-    "lyricist": "Aziz Mahmud Hüdai Hz.",
+    "lyricist": "Ali Ulvi Kurucu",
     "makam": "Bayati",
     "form": "İlahi",
     "usul": "Düyek",
@@ -13959,9 +14001,9 @@
   },
   {
     "id": "000417",
-    "title": "Benim maksudum alemde değildir laki illa Hu",
+    "title": "İlahi bir güneşsin nuruna pervanedir alem",
     "composer": "Amir Ateş",
-    "lyricist": "Aziz Mahmud Hüdai Hz.",
+    "lyricist": "Ali Ulvi Kurucu",
     "makam": "Bayati",
     "form": "İlahi",
     "usul": "Düyek",
@@ -13972,35 +14014,7 @@
     ]
   },
   {
-    "id": "000418",
-    "title": "İlahi bir güneşsin nuruna pervanedir alem",
-    "composer": "Amir Ateş",
-    "lyricist": "Ali Ulvi Kurucu",
-    "makam": "Bayati",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v1",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000418/v1/1.webp"
-    ]
-  },
-  {
-    "id": "000418",
-    "title": "İlahi bir güneşsin nuruna pervanedir alem",
-    "composer": "Amir Ateş",
-    "lyricist": "Ali Ulvi Kurucu",
-    "makam": "Bayati",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v2",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000418/v2/1.webp"
-    ]
-  },
-  {
-    "id": "000418",
+    "id": "000417",
     "title": "İlahi bir güneşsin nuruna pervanedir alem",
     "composer": "Amir Ateş",
     "lyricist": "Ali Ulvi Kurucu",
@@ -14010,11 +14024,11 @@
     "variation": "v3",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000418/v3/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000417/v3/1.webp"
     ]
   },
   {
-    "id": "000419",
+    "id": "000418",
     "title": "Candan açılan ellere nur yağdırır Allah",
     "composer": "Amir Ateş",
     "lyricist": "Yasin Hatipoğlu",
@@ -14024,11 +14038,11 @@
     "variation": "v1",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000419/v1/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000418/v1/1.webp"
     ]
   },
   {
-    "id": "000420",
+    "id": "000419",
     "title": "Günahım hadden efzundur bana rahmeteyle Allah’ım",
     "composer": "Amir Ateş",
     "lyricist": "Dikençoğlu",
@@ -14038,11 +14052,11 @@
     "variation": "v1",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000420/v1/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000419/v1/1.webp"
     ]
   },
   {
-    "id": "000420",
+    "id": "000419",
     "title": "Günahım hadden efzundur bana rahmeteyle Allah’ım",
     "composer": "Amir Ateş",
     "lyricist": "Dikençoğlu",
@@ -14052,11 +14066,11 @@
     "variation": "v2",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000420/v2/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000419/v2/1.webp"
     ]
   },
   {
-    "id": "000420",
+    "id": "000419",
     "title": "Günahım hadden efzundur bana rahmeteyle Allah’ım",
     "composer": "Amir Ateş",
     "lyricist": "Dikençoğlu",
@@ -14066,11 +14080,11 @@
     "variation": "v3",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000420/v3/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000419/v3/1.webp"
     ]
   },
   {
-    "id": "000421",
+    "id": "000420",
     "title": "Hak’tır çıkmaz fikirden beş vakitde zikirden",
     "composer": "Amir Ateş",
     "lyricist": "Feyzi Halıcı",
@@ -14080,11 +14094,11 @@
     "variation": "v1",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000421/v1/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000420/v1/1.webp"
     ]
   },
   {
-    "id": "000421",
+    "id": "000420",
     "title": "Hak’tır çıkmaz fikirden beş vakitde zikirden",
     "composer": "Amir Ateş",
     "lyricist": "Feyzi Halıcı",
@@ -14094,11 +14108,11 @@
     "variation": "V2",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000421/V2/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000420/V2/1.webp"
     ]
   },
   {
-    "id": "000422",
+    "id": "000421",
     "title": "Müjdeler olsun yine geldi mah-ı mubarek",
     "composer": "Amir Ateş",
     "lyricist": "Amir Ateş",
@@ -14108,14 +14122,28 @@
     "variation": "v1",
     "pageCount": 1,
     "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000421/v1/1.webp"
+    ]
+  },
+  {
+    "id": "000422",
+    "title": "Beli dedik ezelde islam geldik zihana",
+    "composer": "Amir Ateş",
+    "lyricist": "Prens Abdullah b. Faysal",
+    "makam": "Hicaz",
+    "form": "İlahi",
+    "usul": "Sofyan",
+    "variation": "v1",
+    "pageCount": 1,
+    "pages": [
       "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000422/v1/1.webp"
     ]
   },
   {
     "id": "000423",
-    "title": "Beli dedik ezelde islam geldik zihana",
+    "title": "Ben dervişim diyene",
     "composer": "Amir Ateş",
-    "lyricist": "Prens Abdullah b. Faysal",
+    "lyricist": "Yunus Emre",
     "makam": "Hicaz",
     "form": "İlahi",
     "usul": "Sofyan",
@@ -14126,21 +14154,7 @@
     ]
   },
   {
-    "id": "000424",
-    "title": "Ben dervişim diyene",
-    "composer": "Amir Ateş",
-    "lyricist": "Yunus Emre",
-    "makam": "Hicaz",
-    "form": "İlahi",
-    "usul": "Sofyan",
-    "variation": "v1",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000424/v1/1.webp"
-    ]
-  },
-  {
-    "id": "000424",
+    "id": "000423",
     "title": "Ben dervişim diyene",
     "composer": "Amir Ateş",
     "lyricist": "Yunus Emre",
@@ -14150,14 +14164,42 @@
     "variation": "V2",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000424/V2/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000423/V2/1.webp"
+    ]
+  },
+  {
+    "id": "000424",
+    "title": "Derdime dermansın yüzüme merhem",
+    "composer": "Amir Ateş",
+    "lyricist": "Sabri Kürtçüoğlu",
+    "makam": "Hicaz",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v1",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000424/v1/1.webp"
+    ]
+  },
+  {
+    "id": "000424",
+    "title": "Derdime dermansın yüzüme merhem",
+    "composer": "Amir Ateş",
+    "lyricist": "Sabri Kürtçüoğlu",
+    "makam": "Hicaz",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000424/v2/1.webp"
     ]
   },
   {
     "id": "000425",
-    "title": "Derdime dermansın yüzüme merhem",
+    "title": "Derdimendim Ya Rasulallah deva ol derdime",
     "composer": "Amir Ateş",
-    "lyricist": "Sabri Kürtçüoğlu",
+    "lyricist": "Ali Ulvi Kurucu",
     "makam": "Hicaz",
     "form": "İlahi",
     "usul": "Düyek",
@@ -14169,9 +14211,9 @@
   },
   {
     "id": "000425",
-    "title": "Derdime dermansın yüzüme merhem",
+    "title": "Derdimendim Ya Rasulallah deva ol derdime",
     "composer": "Amir Ateş",
-    "lyricist": "Sabri Kürtçüoğlu",
+    "lyricist": "Ali Ulvi Kurucu",
     "makam": "Hicaz",
     "form": "İlahi",
     "usul": "Düyek",
@@ -14182,10 +14224,24 @@
     ]
   },
   {
-    "id": "000426",
+    "id": "000425",
     "title": "Derdimendim Ya Rasulallah deva ol derdime",
     "composer": "Amir Ateş",
     "lyricist": "Ali Ulvi Kurucu",
+    "makam": "Hicaz",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v3",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000425/v3/1.webp"
+    ]
+  },
+  {
+    "id": "000426",
+    "title": "Gariplik tuttu boynumdan büker Mevla’ya Mevla’ya",
+    "composer": "Amir Ateş",
+    "lyricist": "Bekir Sıtkı Erdoğan",
     "makam": "Hicaz",
     "form": "İlahi",
     "usul": "Düyek",
@@ -14197,9 +14253,9 @@
   },
   {
     "id": "000426",
-    "title": "Derdimendim Ya Rasulallah deva ol derdime",
+    "title": "Gariplik tuttu boynumdan büker Mevla’ya Mevla’ya",
     "composer": "Amir Ateş",
-    "lyricist": "Ali Ulvi Kurucu",
+    "lyricist": "Bekir Sıtkı Erdoğan",
     "makam": "Hicaz",
     "form": "İlahi",
     "usul": "Düyek",
@@ -14211,9 +14267,9 @@
   },
   {
     "id": "000426",
-    "title": "Derdimendim Ya Rasulallah deva ol derdime",
+    "title": "Gariplik tuttu boynumdan büker Mevla’ya Mevla’ya",
     "composer": "Amir Ateş",
-    "lyricist": "Ali Ulvi Kurucu",
+    "lyricist": "Bekir Sıtkı Erdoğan",
     "makam": "Hicaz",
     "form": "İlahi",
     "usul": "Düyek",
@@ -14225,7 +14281,7 @@
   },
   {
     "id": "000427",
-    "title": "Gariplik tuttu boynumdan büker Mevla’ya Mevla’ya",
+    "title": "İçimde bir dertli bülbül öter Yunus Yunus diye",
     "composer": "Amir Ateş",
     "lyricist": "Bekir Sıtkı Erdoğan",
     "makam": "Hicaz",
@@ -14239,7 +14295,7 @@
   },
   {
     "id": "000427",
-    "title": "Gariplik tuttu boynumdan büker Mevla’ya Mevla’ya",
+    "title": "İçimde bir dertli bülbül öter Yunus Yunus diye",
     "composer": "Amir Ateş",
     "lyricist": "Bekir Sıtkı Erdoğan",
     "makam": "Hicaz",
@@ -14253,7 +14309,7 @@
   },
   {
     "id": "000427",
-    "title": "Gariplik tuttu boynumdan büker Mevla’ya Mevla’ya",
+    "title": "İçimde bir dertli bülbül öter Yunus Yunus diye",
     "composer": "Amir Ateş",
     "lyricist": "Bekir Sıtkı Erdoğan",
     "makam": "Hicaz",
@@ -14267,48 +14323,6 @@
   },
   {
     "id": "000428",
-    "title": "İçimde bir dertli bülbül öter Yunus Yunus diye",
-    "composer": "Amir Ateş",
-    "lyricist": "Bekir Sıtkı Erdoğan",
-    "makam": "Hicaz",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v1",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000428/v1/1.webp"
-    ]
-  },
-  {
-    "id": "000428",
-    "title": "İçimde bir dertli bülbül öter Yunus Yunus diye",
-    "composer": "Amir Ateş",
-    "lyricist": "Bekir Sıtkı Erdoğan",
-    "makam": "Hicaz",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v2",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000428/v2/1.webp"
-    ]
-  },
-  {
-    "id": "000428",
-    "title": "İçimde bir dertli bülbül öter Yunus Yunus diye",
-    "composer": "Amir Ateş",
-    "lyricist": "Bekir Sıtkı Erdoğan",
-    "makam": "Hicaz",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v3",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000428/v3/1.webp"
-    ]
-  },
-  {
-    "id": "000429",
     "title": "Son bulacak bu alemde",
     "composer": "Amir Ateş",
     "lyricist": "Vural Şahin",
@@ -14318,11 +14332,11 @@
     "variation": "v1",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000429/v1/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000428/v1/1.webp"
     ]
   },
   {
-    "id": "000430",
+    "id": "000429",
     "title": "Şerre düşman nemruda hiçbir zaman baş eğmeyen",
     "composer": "Amir Ateş",
     "lyricist": "Amir Ateş",
@@ -14332,11 +14346,11 @@
     "variation": "v1",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000430/v1/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000429/v1/1.webp"
     ]
   },
   {
-    "id": "000430",
+    "id": "000429",
     "title": "Şerre düşman nemruda hiçbir zaman baş eğmeyen",
     "composer": "Amir Ateş",
     "lyricist": "Amir Ateş",
@@ -14346,15 +14360,43 @@
     "variation": "v2",
     "pageCount": 1,
     "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000429/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000430",
+    "title": "Yaşıyorsan gel şükret hiç doğmadan ölen var",
+    "composer": "Amir Ateş",
+    "lyricist": "Ali Tekintüre",
+    "makam": "Hicaz",
+    "form": "İlahi",
+    "usul": "Sofyan",
+    "variation": "v1",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000430/v1/1.webp"
+    ]
+  },
+  {
+    "id": "000430",
+    "title": "Yaşıyorsan gel şükret hiç doğmadan ölen var",
+    "composer": "Amir Ateş",
+    "lyricist": "Ali Tekintüre",
+    "makam": "Hicaz",
+    "form": "İlahi",
+    "usul": "Sofyan",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
       "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000430/v2/1.webp"
     ]
   },
   {
     "id": "000431",
-    "title": "Yaşıyorsan gel şükret hiç doğmadan ölen var",
+    "title": "Allah birdir müjdesi söyler dili nefesi",
     "composer": "Amir Ateş",
-    "lyricist": "Ali Tekintüre",
-    "makam": "Hicaz",
+    "lyricist": "Adil Oymak",
+    "makam": "Hüseyni",
     "form": "İlahi",
     "usul": "Sofyan",
     "variation": "v1",
@@ -14365,10 +14407,10 @@
   },
   {
     "id": "000431",
-    "title": "Yaşıyorsan gel şükret hiç doğmadan ölen var",
+    "title": "Allah birdir müjdesi söyler dili nefesi",
     "composer": "Amir Ateş",
-    "lyricist": "Ali Tekintüre",
-    "makam": "Hicaz",
+    "lyricist": "Adil Oymak",
+    "makam": "Hüseyni",
     "form": "İlahi",
     "usul": "Sofyan",
     "variation": "v2",
@@ -14379,34 +14421,6 @@
   },
   {
     "id": "000432",
-    "title": "Allah birdir müjdesi söyler dili nefesi",
-    "composer": "Amir Ateş",
-    "lyricist": "Adil Oymak",
-    "makam": "Hüseyni",
-    "form": "İlahi",
-    "usul": "Sofyan",
-    "variation": "v1",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000432/v1/1.webp"
-    ]
-  },
-  {
-    "id": "000432",
-    "title": "Allah birdir müjdesi söyler dili nefesi",
-    "composer": "Amir Ateş",
-    "lyricist": "Adil Oymak",
-    "makam": "Hüseyni",
-    "form": "İlahi",
-    "usul": "Sofyan",
-    "variation": "v2",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000432/v2/1.webp"
-    ]
-  },
-  {
-    "id": "000433",
     "title": "Başlayalım söze euzibillah ya Allah",
     "composer": "Amir Ateş",
     "lyricist": "Selimli Ozan",
@@ -14416,11 +14430,11 @@
     "variation": "v1",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000433/v1/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000432/v1/1.webp"
     ]
   },
   {
-    "id": "000434",
+    "id": "000433",
     "title": "Ben bir kulum sen yaradan ah ne olur",
     "composer": "Amir Ateş",
     "lyricist": "Orhan Antan",
@@ -14430,11 +14444,11 @@
     "variation": "v1",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000434/v1/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000433/v1/1.webp"
     ]
   },
   {
-    "id": "000434",
+    "id": "000433",
     "title": "Ben bir kulum sen yaradan ah ne olur",
     "composer": "Amir Ateş",
     "lyricist": "Orhan Antan",
@@ -14444,14 +14458,84 @@
     "variation": "v2",
     "pageCount": 1,
     "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000433/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000434",
+    "title": "Bütün eşya Hüda’yı zikreden bir sırr-ı hikmettir",
+    "composer": "Amir Ateş",
+    "lyricist": "Mehmet Akif Ersoy",
+    "makam": "Hüseyni",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v1",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000434/v1/1.webp"
+    ]
+  },
+  {
+    "id": "000434",
+    "title": "Bütün eşya Hüda’yı zikreden bir sırr-ı hikmettir",
+    "composer": "Amir Ateş",
+    "lyricist": "Mehmet Akif Ersoy",
+    "makam": "Hüseyni",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
       "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000434/v2/1.webp"
     ]
   },
   {
-    "id": "000435",
+    "id": "000434",
     "title": "Bütün eşya Hüda’yı zikreden bir sırr-ı hikmettir",
     "composer": "Amir Ateş",
     "lyricist": "Mehmet Akif Ersoy",
+    "makam": "Hüseyni",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v3",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000434/v3/1.webp"
+    ]
+  },
+  {
+    "id": "000434",
+    "title": "Bütün eşya Hüda’yı zikreden bir sırr-ı hikmettir",
+    "composer": "Amir Ateş",
+    "lyricist": "Mehmet Akif Ersoy",
+    "makam": "Hüseyni",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v4",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000434/v4/1.webp"
+    ]
+  },
+  {
+    "id": "000434",
+    "title": "Bütün eşya Hüda’yı zikreden bir sırr-ı hikmettir",
+    "composer": "Amir Ateş",
+    "lyricist": "Mehmet Akif Ersoy",
+    "makam": "Hüseyni",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v5",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000434/v5/1.webp"
+    ]
+  },
+  {
+    "id": "000435",
+    "title": "Değil yalnız Sarıköy’de Yunus yaşar her gönülde",
+    "composer": "Amir Ateş",
+    "lyricist": "Nedim Uçar",
     "makam": "Hüseyni",
     "form": "İlahi",
     "usul": "Düyek",
@@ -14463,9 +14547,9 @@
   },
   {
     "id": "000435",
-    "title": "Bütün eşya Hüda’yı zikreden bir sırr-ı hikmettir",
+    "title": "Değil yalnız Sarıköy’de Yunus yaşar her gönülde",
     "composer": "Amir Ateş",
-    "lyricist": "Mehmet Akif Ersoy",
+    "lyricist": "Nedim Uçar",
     "makam": "Hüseyni",
     "form": "İlahi",
     "usul": "Düyek",
@@ -14476,52 +14560,10 @@
     ]
   },
   {
-    "id": "000435",
-    "title": "Bütün eşya Hüda’yı zikreden bir sırr-ı hikmettir",
-    "composer": "Amir Ateş",
-    "lyricist": "Mehmet Akif Ersoy",
-    "makam": "Hüseyni",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v3",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000435/v3/1.webp"
-    ]
-  },
-  {
-    "id": "000435",
-    "title": "Bütün eşya Hüda’yı zikreden bir sırr-ı hikmettir",
-    "composer": "Amir Ateş",
-    "lyricist": "Mehmet Akif Ersoy",
-    "makam": "Hüseyni",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v4",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000435/v4/1.webp"
-    ]
-  },
-  {
-    "id": "000435",
-    "title": "Bütün eşya Hüda’yı zikreden bir sırr-ı hikmettir",
-    "composer": "Amir Ateş",
-    "lyricist": "Mehmet Akif Ersoy",
-    "makam": "Hüseyni",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v5",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000435/v5/1.webp"
-    ]
-  },
-  {
     "id": "000436",
-    "title": "Değil yalnız Sarıköy’de Yunus yaşar her gönülde",
+    "title": "Ey Rasulallah’ın dostu yalvarırız imdan eyle",
     "composer": "Amir Ateş",
-    "lyricist": "Nedim Uçar",
+    "lyricist": "Mustafa Necati Bursalı",
     "makam": "Hüseyni",
     "form": "İlahi",
     "usul": "Düyek",
@@ -14533,9 +14575,9 @@
   },
   {
     "id": "000436",
-    "title": "Değil yalnız Sarıköy’de Yunus yaşar her gönülde",
+    "title": "Ey Rasulallah’ın dostu yalvarırız imdan eyle",
     "composer": "Amir Ateş",
-    "lyricist": "Nedim Uçar",
+    "lyricist": "Mustafa Necati Bursalı",
     "makam": "Hüseyni",
     "form": "İlahi",
     "usul": "Düyek",
@@ -14547,12 +14589,12 @@
   },
   {
     "id": "000437",
-    "title": "Ey Rasulallah’ın dostu yalvarırız imdan eyle",
+    "title": "Hak’dan inen şerbeti içtik Elhamdülillah",
     "composer": "Amir Ateş",
-    "lyricist": "Mustafa Necati Bursalı",
+    "lyricist": "Yunus Emre",
     "makam": "Hüseyni",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Sofyan",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -14561,12 +14603,12 @@
   },
   {
     "id": "000437",
-    "title": "Ey Rasulallah’ın dostu yalvarırız imdan eyle",
+    "title": "Hak’dan inen şerbeti içtik Elhamdülillah",
     "composer": "Amir Ateş",
-    "lyricist": "Mustafa Necati Bursalı",
+    "lyricist": "Yunus Emre",
     "makam": "Hüseyni",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Sofyan",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -14575,12 +14617,12 @@
   },
   {
     "id": "000438",
-    "title": "Hak’dan inen şerbeti içtik Elhamdülillah",
+    "title": "Seni kusursuz yaratanı sev",
     "composer": "Amir Ateş",
-    "lyricist": "Yunus Emre",
+    "lyricist": "Yılmaz Çiçek",
     "makam": "Hüseyni",
     "form": "İlahi",
-    "usul": "Sofyan",
+    "usul": "Düyek",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -14589,12 +14631,12 @@
   },
   {
     "id": "000438",
-    "title": "Hak’dan inen şerbeti içtik Elhamdülillah",
+    "title": "Seni kusursuz yaratanı sev",
     "composer": "Amir Ateş",
-    "lyricist": "Yunus Emre",
+    "lyricist": "Yılmaz Çiçek",
     "makam": "Hüseyni",
     "form": "İlahi",
-    "usul": "Sofyan",
+    "usul": "Düyek",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -14602,10 +14644,24 @@
     ]
   },
   {
-    "id": "000439",
+    "id": "000438",
     "title": "Seni kusursuz yaratanı sev",
     "composer": "Amir Ateş",
     "lyricist": "Yılmaz Çiçek",
+    "makam": "Hüseyni",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v3",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000438/v3/1.webp"
+    ]
+  },
+  {
+    "id": "000439",
+    "title": "Yandı bu gönlüm Mustafa’nın aşkına",
+    "composer": "Amir Ateş",
+    "lyricist": "Hüseyin top",
     "makam": "Hüseyni",
     "form": "İlahi",
     "usul": "Düyek",
@@ -14617,9 +14673,9 @@
   },
   {
     "id": "000439",
-    "title": "Seni kusursuz yaratanı sev",
+    "title": "Yandı bu gönlüm Mustafa’nın aşkına",
     "composer": "Amir Ateş",
-    "lyricist": "Yılmaz Çiçek",
+    "lyricist": "Hüseyin top",
     "makam": "Hüseyni",
     "form": "İlahi",
     "usul": "Düyek",
@@ -14631,12 +14687,12 @@
   },
   {
     "id": "000440",
-    "title": "Yandı bu gönlüm Mustafa’nın aşkına",
+    "title": "Bahşetse Hüda bizlere sertacımızı",
     "composer": "Amir Ateş",
-    "lyricist": "Hüseyin top",
-    "makam": "Hüseyni",
+    "lyricist": "Yasin Hatipoğlu",
+    "makam": "Hüzzam",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Sofyan",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -14644,24 +14700,10 @@
     ]
   },
   {
-    "id": "000440",
-    "title": "Yandı bu gönlüm Mustafa’nın aşkına",
-    "composer": "Amir Ateş",
-    "lyricist": "Hüseyin top",
-    "makam": "Hüseyni",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v2",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000440/v2/1.webp"
-    ]
-  },
-  {
     "id": "000441",
-    "title": "Bahşetse Hüda bizlere sertacımızı",
+    "title": "Bir sancak altında kaç milyon insan",
     "composer": "Amir Ateş",
-    "lyricist": "Yasin Hatipoğlu",
+    "lyricist": "Cengiz Numanoğlu",
     "makam": "Hüzzam",
     "form": "İlahi",
     "usul": "Sofyan",
@@ -14673,12 +14715,12 @@
   },
   {
     "id": "000442",
-    "title": "Bir sancak altında kaç milyon insan",
+    "title": "Habib-i Kibriya bab-ı recasın Ya Rasulallah",
     "composer": "Amir Ateş",
-    "lyricist": "Cengiz Numanoğlu",
+    "lyricist": "Ali Ulvi Kurucu",
     "makam": "Hüzzam",
     "form": "İlahi",
-    "usul": "Sofyan",
+    "usul": "Düyek",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -14686,10 +14728,24 @@
     ]
   },
   {
-    "id": "000443",
+    "id": "000442",
     "title": "Habib-i Kibriya bab-ı recasın Ya Rasulallah",
     "composer": "Amir Ateş",
     "lyricist": "Ali Ulvi Kurucu",
+    "makam": "Hüzzam",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000442/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000443",
+    "title": "Hak Rasulün nur u ciğer-paresi ya Fatıma",
+    "composer": "Amir Ateş",
+    "lyricist": "Hüseyin top",
     "makam": "Hüzzam",
     "form": "İlahi",
     "usul": "Düyek",
@@ -14700,24 +14756,10 @@
     ]
   },
   {
-    "id": "000443",
-    "title": "Habib-i Kibriya bab-ı recasın Ya Rasulallah",
-    "composer": "Amir Ateş",
-    "lyricist": "Ali Ulvi Kurucu",
-    "makam": "Hüzzam",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v2",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000443/v2/1.webp"
-    ]
-  },
-  {
     "id": "000444",
-    "title": "Hak Rasulün nur u ciğer-paresi ya Fatıma",
+    "title": "Huzurunda bel bağladım",
     "composer": "Amir Ateş",
-    "lyricist": "Hüseyin top",
+    "lyricist": "Müşerref Akgümüş",
     "makam": "Hüzzam",
     "form": "İlahi",
     "usul": "Düyek",
@@ -14728,13 +14770,27 @@
     ]
   },
   {
-    "id": "000445",
+    "id": "000444",
     "title": "Huzurunda bel bağladım",
     "composer": "Amir Ateş",
     "lyricist": "Müşerref Akgümüş",
     "makam": "Hüzzam",
     "form": "İlahi",
     "usul": "Düyek",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000444/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000445",
+    "title": "Sebeb-i hilkat-i alem yüceden sesleniyor",
+    "composer": "Amir Ateş",
+    "lyricist": "Mecit Sesigür",
+    "makam": "Hüzzam",
+    "form": "İlahi",
+    "usul": "Nim Sofyan",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -14743,12 +14799,12 @@
   },
   {
     "id": "000445",
-    "title": "Huzurunda bel bağladım",
+    "title": "Sebeb-i hilkat-i alem yüceden sesleniyor",
     "composer": "Amir Ateş",
-    "lyricist": "Müşerref Akgümüş",
+    "lyricist": "Mecit Sesigür",
     "makam": "Hüzzam",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Nim Sofyan",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -14757,12 +14813,12 @@
   },
   {
     "id": "000446",
-    "title": "Sebeb-i hilkat-i alem yüceden sesleniyor",
+    "title": "Neyleyeyim dünyayı bana Allahım gerek",
     "composer": "Amir Ateş",
-    "lyricist": "Mecit Sesigür",
-    "makam": "Hüzzam",
+    "lyricist": "Aziz Mahmud Hüdai Hz.",
+    "makam": "Isfahan",
     "form": "İlahi",
-    "usul": "Nim Sofyan",
+    "usul": "Sofyan",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -14771,12 +14827,12 @@
   },
   {
     "id": "000446",
-    "title": "Sebeb-i hilkat-i alem yüceden sesleniyor",
+    "title": "Neyleyeyim dünyayı bana Allahım gerek",
     "composer": "Amir Ateş",
-    "lyricist": "Mecit Sesigür",
-    "makam": "Hüzzam",
+    "lyricist": "Aziz Mahmud Hüdai Hz.",
+    "makam": "Isfahan",
     "form": "İlahi",
-    "usul": "Nim Sofyan",
+    "usul": "Sofyan",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -14785,10 +14841,10 @@
   },
   {
     "id": "000447",
-    "title": "Neyleyeyim dünyayı bana Allahım gerek",
+    "title": "Ey padişah-ı lem-yezel vey Kadir u Hayy’ül ezel",
     "composer": "Amir Ateş",
-    "lyricist": "Aziz Mahmud Hüdai Hz.",
-    "makam": "Isfahan",
+    "lyricist": "Yunus Emre",
+    "makam": "Mahur",
     "form": "İlahi",
     "usul": "Sofyan",
     "variation": "v1",
@@ -14799,10 +14855,10 @@
   },
   {
     "id": "000447",
-    "title": "Neyleyeyim dünyayı bana Allahım gerek",
+    "title": "Ey padişah-ı lem-yezel vey Kadir u Hayy’ül ezel",
     "composer": "Amir Ateş",
-    "lyricist": "Aziz Mahmud Hüdai Hz.",
-    "makam": "Isfahan",
+    "lyricist": "Yunus Emre",
+    "makam": "Mahur",
     "form": "İlahi",
     "usul": "Sofyan",
     "variation": "v2",
@@ -14813,12 +14869,12 @@
   },
   {
     "id": "000448",
-    "title": "Ey padişah-ı lem-yezel vey Kadir u Hayy’ül ezel",
+    "title": "Gül damlası her bi sözün",
     "composer": "Amir Ateş",
-    "lyricist": "Yunus Emre",
-    "makam": "Mahur",
+    "lyricist": "Emine Ertem",
+    "makam": "Nihavend",
     "form": "İlahi",
-    "usul": "Sofyan",
+    "usul": "Düyek",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -14827,12 +14883,12 @@
   },
   {
     "id": "000448",
-    "title": "Ey padişah-ı lem-yezel vey Kadir u Hayy’ül ezel",
+    "title": "Gül damlası her bi sözün",
     "composer": "Amir Ateş",
-    "lyricist": "Yunus Emre",
-    "makam": "Mahur",
+    "lyricist": "Emine Ertem",
+    "makam": "Nihavend",
     "form": "İlahi",
-    "usul": "Sofyan",
+    "usul": "Düyek",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -14841,34 +14897,6 @@
   },
   {
     "id": "000449",
-    "title": "Gül damlası her bi sözün",
-    "composer": "Amir Ateş",
-    "lyricist": "Emine Ertem",
-    "makam": "Nihavend",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v1",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000449/v1/1.webp"
-    ]
-  },
-  {
-    "id": "000449",
-    "title": "Gül damlası her bi sözün",
-    "composer": "Amir Ateş",
-    "lyricist": "Emine Ertem",
-    "makam": "Nihavend",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v2",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000449/v2/1.webp"
-    ]
-  },
-  {
-    "id": "000450",
     "title": "Semerkand’dan erenlerden",
     "composer": "Amir Ateş",
     "lyricist": "Osman Kemal Kayra",
@@ -14878,11 +14906,11 @@
     "variation": "v1",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000450/v1/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000449/v1/1.webp"
     ]
   },
   {
-    "id": "000451",
+    "id": "000450",
     "title": "Açıldı göklerin babı o hazrete minhac oldu",
     "composer": "Amir Ateş",
     "lyricist": "",
@@ -14892,11 +14920,11 @@
     "variation": "v1",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000451/v1/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000450/v1/1.webp"
     ]
   },
   {
-    "id": "000451",
+    "id": "000450",
     "title": "Açıldı göklerin babı o hazrete minhac oldu",
     "composer": "Amir Ateş",
     "lyricist": "",
@@ -14906,11 +14934,11 @@
     "variation": "v2",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000451/v2/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000450/v2/1.webp"
     ]
   },
   {
-    "id": "000452",
+    "id": "000451",
     "title": "Bakıp seni gören aşık başka cemali neylesin",
     "composer": "Amir Ateş",
     "lyricist": "",
@@ -14920,11 +14948,11 @@
     "variation": "v1",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000452/v1/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000451/v1/1.webp"
     ]
   },
   {
-    "id": "000453",
+    "id": "000452",
     "title": "Fahr-i alem enbiyanın zat-ı müstesnasıdır",
     "composer": "Amir Ateş",
     "lyricist": "",
@@ -14934,11 +14962,11 @@
     "variation": "v1",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000453/v1/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000452/v1/1.webp"
     ]
   },
   {
-    "id": "000453",
+    "id": "000452",
     "title": "Fahr-i alem enbiyanın zat-ı müstesnasıdır",
     "composer": "Amir Ateş",
     "lyricist": "",
@@ -14948,14 +14976,42 @@
     "variation": "v2",
     "pageCount": 1,
     "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000452/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000453",
+    "title": "Gönüller zikirde akıllar fikirde",
+    "composer": "Amir Ateş",
+    "lyricist": "",
+    "makam": "Rast",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v1",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000453/v1/1.webp"
+    ]
+  },
+  {
+    "id": "000453",
+    "title": "Gönüller zikirde akıllar fikirde",
+    "composer": "Amir Ateş",
+    "lyricist": "",
+    "makam": "Rast",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
       "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000453/v2/1.webp"
     ]
   },
   {
     "id": "000454",
-    "title": "Gönüller zikirde akıllar fikirde",
+    "title": "Hu eyleyen halleriyle",
     "composer": "Amir Ateş",
-    "lyricist": "",
+    "lyricist": "Şükrü Algın",
     "makam": "Rast",
     "form": "İlahi",
     "usul": "Düyek",
@@ -14966,27 +15022,13 @@
     ]
   },
   {
-    "id": "000454",
-    "title": "Gönüller zikirde akıllar fikirde",
-    "composer": "Amir Ateş",
-    "lyricist": "",
-    "makam": "Rast",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v2",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000454/v2/1.webp"
-    ]
-  },
-  {
     "id": "000455",
-    "title": "Hu eyleyen halleriyle",
+    "title": "Mecnun olana dua gerekmez",
     "composer": "Amir Ateş",
-    "lyricist": "Şükrü Algın",
+    "lyricist": "Rıza Göver",
     "makam": "Rast",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Sofyan",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -14994,10 +15036,24 @@
     ]
   },
   {
-    "id": "000456",
+    "id": "000455",
     "title": "Mecnun olana dua gerekmez",
     "composer": "Amir Ateş",
     "lyricist": "Rıza Göver",
+    "makam": "Rast",
+    "form": "İlahi",
+    "usul": "Sofyan",
+    "variation": "V2",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000455/V2/1.webp"
+    ]
+  },
+  {
+    "id": "000456",
+    "title": "Neyleyeyim dünyayı bana Allahım gerek",
+    "composer": "Amir Ateş",
+    "lyricist": "Aziz Mahmud Hüdai Hz.",
     "makam": "Rast",
     "form": "İlahi",
     "usul": "Sofyan",
@@ -15009,23 +15065,37 @@
   },
   {
     "id": "000456",
-    "title": "Mecnun olana dua gerekmez",
+    "title": "Neyleyeyim dünyayı bana Allahım gerek",
     "composer": "Amir Ateş",
-    "lyricist": "Rıza Göver",
+    "lyricist": "Aziz Mahmud Hüdai Hz.",
     "makam": "Rast",
     "form": "İlahi",
     "usul": "Sofyan",
-    "variation": "V2",
+    "variation": "v2",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000456/V2/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000456/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000456",
+    "title": "Neyleyeyim dünyayı bana Allahım gerek",
+    "composer": "Amir Ateş",
+    "lyricist": "Aziz Mahmud Hüdai Hz.",
+    "makam": "Rast",
+    "form": "İlahi",
+    "usul": "Sofyan",
+    "variation": "v3",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000456/v3/1.webp"
     ]
   },
   {
     "id": "000457",
-    "title": "Neyleyeyim dünyayı bana Allahım gerek",
+    "title": "Sen geldiğin akşam bize nur doğdu efendim",
     "composer": "Amir Ateş",
-    "lyricist": "Aziz Mahmud Hüdai Hz.",
+    "lyricist": "Yasin Hatipoğlu",
     "makam": "Rast",
     "form": "İlahi",
     "usul": "Sofyan",
@@ -15036,41 +15106,13 @@
     ]
   },
   {
-    "id": "000457",
-    "title": "Neyleyeyim dünyayı bana Allahım gerek",
-    "composer": "Amir Ateş",
-    "lyricist": "Aziz Mahmud Hüdai Hz.",
-    "makam": "Rast",
-    "form": "İlahi",
-    "usul": "Sofyan",
-    "variation": "v2",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000457/v2/1.webp"
-    ]
-  },
-  {
-    "id": "000457",
-    "title": "Neyleyeyim dünyayı bana Allahım gerek",
-    "composer": "Amir Ateş",
-    "lyricist": "Aziz Mahmud Hüdai Hz.",
-    "makam": "Rast",
-    "form": "İlahi",
-    "usul": "Sofyan",
-    "variation": "v3",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000457/v3/1.webp"
-    ]
-  },
-  {
     "id": "000458",
-    "title": "Sen geldiğin akşam bize nur doğdu efendim",
+    "title": "Seni sevmek dü alemde saadet Ya Rasulallah",
     "composer": "Amir Ateş",
-    "lyricist": "Yasin Hatipoğlu",
+    "lyricist": "Hayreddin Karaman",
     "makam": "Rast",
     "form": "İlahi",
-    "usul": "Sofyan",
+    "usul": "Düyek",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -15078,8 +15120,22 @@
     ]
   },
   {
-    "id": "000459",
+    "id": "000458",
     "title": "Seni sevmek dü alemde saadet Ya Rasulallah",
+    "composer": "Amir Ateş",
+    "lyricist": "Hayreddin Karaman",
+    "makam": "Rast",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000458/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000459",
+    "title": "Ümmetin üstüne titreyen sensin",
     "composer": "Amir Ateş",
     "lyricist": "Hayreddin Karaman",
     "makam": "Rast",
@@ -15093,7 +15149,7 @@
   },
   {
     "id": "000459",
-    "title": "Seni sevmek dü alemde saadet Ya Rasulallah",
+    "title": "Ümmetin üstüne titreyen sensin",
     "composer": "Amir Ateş",
     "lyricist": "Hayreddin Karaman",
     "makam": "Rast",
@@ -15107,10 +15163,10 @@
   },
   {
     "id": "000460",
-    "title": "Ümmetin üstüne titreyen sensin",
+    "title": "Bastığın yerleri toprak diyerek geçme tanı",
     "composer": "Amir Ateş",
-    "lyricist": "Hayreddin Karaman",
-    "makam": "Rast",
+    "lyricist": "Mehmet Akif Ersoy",
+    "makam": "Saba",
     "form": "İlahi",
     "usul": "Düyek",
     "variation": "v1",
@@ -15120,24 +15176,10 @@
     ]
   },
   {
-    "id": "000460",
-    "title": "Ümmetin üstüne titreyen sensin",
-    "composer": "Amir Ateş",
-    "lyricist": "Hayreddin Karaman",
-    "makam": "Rast",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v2",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000460/v2/1.webp"
-    ]
-  },
-  {
     "id": "000461",
-    "title": "Bastığın yerleri toprak diyerek geçme tanı",
+    "title": "Buldu hep derdine dermanını canlar bu gece",
     "composer": "Amir Ateş",
-    "lyricist": "Mehmet Akif Ersoy",
+    "lyricist": "Ali Ulvi Kurucu",
     "makam": "Saba",
     "form": "İlahi",
     "usul": "Düyek",
@@ -15148,13 +15190,27 @@
     ]
   },
   {
-    "id": "000462",
+    "id": "000461",
     "title": "Buldu hep derdine dermanını canlar bu gece",
     "composer": "Amir Ateş",
     "lyricist": "Ali Ulvi Kurucu",
     "makam": "Saba",
     "form": "İlahi",
     "usul": "Düyek",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000461/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000462",
+    "title": "Ey güzel Rabbim bizi sen böyle naçar eyleme",
+    "composer": "Amir Ateş",
+    "lyricist": "",
+    "makam": "Saba",
+    "form": "İlahi",
+    "usul": "Sofyan",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -15163,12 +15219,12 @@
   },
   {
     "id": "000462",
-    "title": "Buldu hep derdine dermanını canlar bu gece",
+    "title": "Ey güzel Rabbim bizi sen böyle naçar eyleme",
     "composer": "Amir Ateş",
-    "lyricist": "Ali Ulvi Kurucu",
+    "lyricist": "",
     "makam": "Saba",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Sofyan",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -15177,34 +15233,6 @@
   },
   {
     "id": "000463",
-    "title": "Ey güzel Rabbim bizi sen böyle naçar eyleme",
-    "composer": "Amir Ateş",
-    "lyricist": "",
-    "makam": "Saba",
-    "form": "İlahi",
-    "usul": "Sofyan",
-    "variation": "v1",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000463/v1/1.webp"
-    ]
-  },
-  {
-    "id": "000463",
-    "title": "Ey güzel Rabbim bizi sen böyle naçar eyleme",
-    "composer": "Amir Ateş",
-    "lyricist": "",
-    "makam": "Saba",
-    "form": "İlahi",
-    "usul": "Sofyan",
-    "variation": "v2",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000463/v2/1.webp"
-    ]
-  },
-  {
-    "id": "000464",
     "title": "Günahımızı biz biliyoruz",
     "composer": "Amir Ateş",
     "lyricist": "Ayşe Feyzioğlu",
@@ -15214,11 +15242,11 @@
     "variation": "v1",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000464/v1/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000463/v1/1.webp"
     ]
   },
   {
-    "id": "000464",
+    "id": "000463",
     "title": "Günahımızı biz biliyoruz",
     "composer": "Amir Ateş",
     "lyricist": "Ayşe Feyzioğlu",
@@ -15228,11 +15256,11 @@
     "variation": "V2",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000464/V2/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000463/V2/1.webp"
     ]
   },
   {
-    "id": "000465",
+    "id": "000464",
     "title": "Kainatı döndüren ism-i Celalin",
     "composer": "Amir Ateş",
     "lyricist": "",
@@ -15242,11 +15270,11 @@
     "variation": "v1",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000465/v1/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000464/v1/1.webp"
     ]
   },
   {
-    "id": "000465",
+    "id": "000464",
     "title": "Kainatı döndüren ism-i Celalin",
     "composer": "Amir Ateş",
     "lyricist": "",
@@ -15256,11 +15284,11 @@
     "variation": "v2",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000465/v2/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000464/v2/1.webp"
     ]
   },
   {
-    "id": "000465",
+    "id": "000464",
     "title": "Kainatı döndüren ism-i Celalin",
     "composer": "Amir Ateş",
     "lyricist": "",
@@ -15270,14 +15298,28 @@
     "variation": "v3",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000465/v3/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000464/v3/1.webp"
+    ]
+  },
+  {
+    "id": "000465",
+    "title": "Kim bu cennet vatanın uğruna olmaz ki feda",
+    "composer": "Amir Ateş",
+    "lyricist": "Mehmet Akif Ersoy",
+    "makam": "Saba",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v1",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000465/v1/1.webp"
     ]
   },
   {
     "id": "000466",
-    "title": "Kim bu cennet vatanın uğruna olmaz ki feda",
+    "title": "Seher vakti esen yeller baharda açılan güller",
     "composer": "Amir Ateş",
-    "lyricist": "Mehmet Akif Ersoy",
+    "lyricist": "Ayşe Feyzioğlu",
     "makam": "Saba",
     "form": "İlahi",
     "usul": "Düyek",
@@ -15288,10 +15330,38 @@
     ]
   },
   {
-    "id": "000467",
+    "id": "000466",
     "title": "Seher vakti esen yeller baharda açılan güller",
     "composer": "Amir Ateş",
     "lyricist": "Ayşe Feyzioğlu",
+    "makam": "Saba",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000466/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000466",
+    "title": "Seher vakti esen yeller baharda açılan güller",
+    "composer": "Amir Ateş",
+    "lyricist": "Ayşe Feyzioğlu",
+    "makam": "Saba",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v3",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000466/v3/1.webp"
+    ]
+  },
+  {
+    "id": "000467",
+    "title": "Sen bu avizenin altında bürünmüş kanına",
+    "composer": "Amir Ateş",
+    "lyricist": "Mehmet Akif Ersoy",
     "makam": "Saba",
     "form": "İlahi",
     "usul": "Düyek",
@@ -15302,41 +15372,13 @@
     ]
   },
   {
-    "id": "000467",
-    "title": "Seher vakti esen yeller baharda açılan güller",
-    "composer": "Amir Ateş",
-    "lyricist": "Ayşe Feyzioğlu",
-    "makam": "Saba",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v2",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000467/v2/1.webp"
-    ]
-  },
-  {
-    "id": "000467",
-    "title": "Seher vakti esen yeller baharda açılan güller",
-    "composer": "Amir Ateş",
-    "lyricist": "Ayşe Feyzioğlu",
-    "makam": "Saba",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v3",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000467/v3/1.webp"
-    ]
-  },
-  {
     "id": "000468",
-    "title": "Sen bu avizenin altında bürünmüş kanına",
+    "title": "Vuslatlar kana kana ayrılık yana yana",
     "composer": "Amir Ateş",
-    "lyricist": "Mehmet Akif Ersoy",
+    "lyricist": "Hüseyin top",
     "makam": "Saba",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Sofyan",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -15345,9 +15387,9 @@
   },
   {
     "id": "000469",
-    "title": "Vuslatlar kana kana ayrılık yana yana",
+    "title": "Ya Rabbena affet bizi daim yücelt neslimizi",
     "composer": "Amir Ateş",
-    "lyricist": "Hüseyin top",
+    "lyricist": "İlhan Tok",
     "makam": "Saba",
     "form": "İlahi",
     "usul": "Sofyan",
@@ -15358,11 +15400,25 @@
     ]
   },
   {
-    "id": "000470",
+    "id": "000469",
     "title": "Ya Rabbena affet bizi daim yücelt neslimizi",
     "composer": "Amir Ateş",
     "lyricist": "İlhan Tok",
     "makam": "Saba",
+    "form": "İlahi",
+    "usul": "Sofyan",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000469/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000470",
+    "title": "Canım kurban olsun senin yoluna",
+    "composer": "Amir Ateş",
+    "lyricist": "Yunus Emre",
+    "makam": "Segah",
     "form": "İlahi",
     "usul": "Sofyan",
     "variation": "v1",
@@ -15373,10 +15429,10 @@
   },
   {
     "id": "000470",
-    "title": "Ya Rabbena affet bizi daim yücelt neslimizi",
+    "title": "Canım kurban olsun senin yoluna",
     "composer": "Amir Ateş",
-    "lyricist": "İlhan Tok",
-    "makam": "Saba",
+    "lyricist": "Yunus Emre",
+    "makam": "Segah",
     "form": "İlahi",
     "usul": "Sofyan",
     "variation": "v2",
@@ -15386,10 +15442,80 @@
     ]
   },
   {
-    "id": "000471",
+    "id": "000470",
     "title": "Canım kurban olsun senin yoluna",
     "composer": "Amir Ateş",
     "lyricist": "Yunus Emre",
+    "makam": "Segah",
+    "form": "İlahi",
+    "usul": "Sofyan",
+    "variation": "v3",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000470/v3/1.webp"
+    ]
+  },
+  {
+    "id": "000470",
+    "title": "Canım kurban olsun senin yoluna",
+    "composer": "Amir Ateş",
+    "lyricist": "Yunus Emre",
+    "makam": "Segah",
+    "form": "İlahi",
+    "usul": "Sofyan",
+    "variation": "v4",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000470/v4/1.webp"
+    ]
+  },
+  {
+    "id": "000470",
+    "title": "Canım kurban olsun senin yoluna",
+    "composer": "Amir Ateş",
+    "lyricist": "Yunus Emre",
+    "makam": "Segah",
+    "form": "İlahi",
+    "usul": "Sofyan",
+    "variation": "v5",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000470/v5/1.webp"
+    ]
+  },
+  {
+    "id": "000470",
+    "title": "Canım kurban olsun senin yoluna",
+    "composer": "Amir Ateş",
+    "lyricist": "Yunus Emre",
+    "makam": "Segah",
+    "form": "İlahi",
+    "usul": "Sofyan",
+    "variation": "v6",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000470/v6/1.webp"
+    ]
+  },
+  {
+    "id": "000470",
+    "title": "Canım kurban olsun senin yoluna",
+    "composer": "Amir Ateş",
+    "lyricist": "Yunus Emre",
+    "makam": "Segah",
+    "form": "İlahi",
+    "usul": "Sofyan",
+    "variation": "v7",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000470/v7/1.webp"
+    ]
+  },
+  {
+    "id": "000471",
+    "title": "Gök kubbenin altında yatar al kan içinde",
+    "composer": "Amir Ateş",
+    "lyricist": "Mehmet Akif Ersoy",
     "makam": "Segah",
     "form": "İlahi",
     "usul": "Sofyan",
@@ -15401,9 +15527,9 @@
   },
   {
     "id": "000471",
-    "title": "Canım kurban olsun senin yoluna",
+    "title": "Gök kubbenin altında yatar al kan içinde",
     "composer": "Amir Ateş",
-    "lyricist": "Yunus Emre",
+    "lyricist": "Mehmet Akif Ersoy",
     "makam": "Segah",
     "form": "İlahi",
     "usul": "Sofyan",
@@ -15415,9 +15541,9 @@
   },
   {
     "id": "000471",
-    "title": "Canım kurban olsun senin yoluna",
+    "title": "Gök kubbenin altında yatar al kan içinde",
     "composer": "Amir Ateş",
-    "lyricist": "Yunus Emre",
+    "lyricist": "Mehmet Akif Ersoy",
     "makam": "Segah",
     "form": "İlahi",
     "usul": "Sofyan",
@@ -15429,9 +15555,9 @@
   },
   {
     "id": "000471",
-    "title": "Canım kurban olsun senin yoluna",
+    "title": "Gök kubbenin altında yatar al kan içinde",
     "composer": "Amir Ateş",
-    "lyricist": "Yunus Emre",
+    "lyricist": "Mehmet Akif Ersoy",
     "makam": "Segah",
     "form": "İlahi",
     "usul": "Sofyan",
@@ -15442,55 +15568,13 @@
     ]
   },
   {
-    "id": "000471",
-    "title": "Canım kurban olsun senin yoluna",
-    "composer": "Amir Ateş",
-    "lyricist": "Yunus Emre",
-    "makam": "Segah",
-    "form": "İlahi",
-    "usul": "Sofyan",
-    "variation": "v5",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000471/v5/1.webp"
-    ]
-  },
-  {
-    "id": "000471",
-    "title": "Canım kurban olsun senin yoluna",
-    "composer": "Amir Ateş",
-    "lyricist": "Yunus Emre",
-    "makam": "Segah",
-    "form": "İlahi",
-    "usul": "Sofyan",
-    "variation": "v6",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000471/v6/1.webp"
-    ]
-  },
-  {
-    "id": "000471",
-    "title": "Canım kurban olsun senin yoluna",
-    "composer": "Amir Ateş",
-    "lyricist": "Yunus Emre",
-    "makam": "Segah",
-    "form": "İlahi",
-    "usul": "Sofyan",
-    "variation": "v7",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000471/v7/1.webp"
-    ]
-  },
-  {
     "id": "000472",
-    "title": "Gök kubbenin altında yatar al kan içinde",
+    "title": "Gönül hep sendedir Elhamdülillah",
     "composer": "Amir Ateş",
-    "lyricist": "Mehmet Akif Ersoy",
+    "lyricist": "İbrahim Hakkı Erzurumî",
     "makam": "Segah",
     "form": "İlahi",
-    "usul": "Sofyan",
+    "usul": "Düyek",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -15499,12 +15583,12 @@
   },
   {
     "id": "000472",
-    "title": "Gök kubbenin altında yatar al kan içinde",
+    "title": "Gönül hep sendedir Elhamdülillah",
     "composer": "Amir Ateş",
-    "lyricist": "Mehmet Akif Ersoy",
+    "lyricist": "İbrahim Hakkı Erzurumî",
     "makam": "Segah",
     "form": "İlahi",
-    "usul": "Sofyan",
+    "usul": "Düyek",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -15513,12 +15597,12 @@
   },
   {
     "id": "000472",
-    "title": "Gök kubbenin altında yatar al kan içinde",
+    "title": "Gönül hep sendedir Elhamdülillah",
     "composer": "Amir Ateş",
-    "lyricist": "Mehmet Akif Ersoy",
+    "lyricist": "İbrahim Hakkı Erzurumî",
     "makam": "Segah",
     "form": "İlahi",
-    "usul": "Sofyan",
+    "usul": "Düyek",
     "variation": "v3",
     "pageCount": 1,
     "pages": [
@@ -15526,27 +15610,13 @@
     ]
   },
   {
-    "id": "000472",
-    "title": "Gök kubbenin altında yatar al kan içinde",
-    "composer": "Amir Ateş",
-    "lyricist": "Mehmet Akif Ersoy",
-    "makam": "Segah",
-    "form": "İlahi",
-    "usul": "Sofyan",
-    "variation": "v4",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000472/v4/1.webp"
-    ]
-  },
-  {
     "id": "000473",
-    "title": "Gönül hep sendedir Elhamdülillah",
+    "title": "Lebbeyk Allahümme Lebbeyk",
     "composer": "Amir Ateş",
-    "lyricist": "İbrahim Hakkı Erzurumî",
+    "lyricist": "",
     "makam": "Segah",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Nim Sofyan",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -15555,12 +15625,12 @@
   },
   {
     "id": "000473",
-    "title": "Gönül hep sendedir Elhamdülillah",
+    "title": "Lebbeyk Allahümme Lebbeyk",
     "composer": "Amir Ateş",
-    "lyricist": "İbrahim Hakkı Erzurumî",
+    "lyricist": "",
     "makam": "Segah",
     "form": "İlahi",
-    "usul": "Düyek",
+    "usul": "Nim Sofyan",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -15568,27 +15638,13 @@
     ]
   },
   {
-    "id": "000473",
-    "title": "Gönül hep sendedir Elhamdülillah",
-    "composer": "Amir Ateş",
-    "lyricist": "İbrahim Hakkı Erzurumî",
-    "makam": "Segah",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v3",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000473/v3/1.webp"
-    ]
-  },
-  {
     "id": "000474",
-    "title": "Lebbeyk Allahümme Lebbeyk",
+    "title": "Rebiulevveldir veladet mahı",
     "composer": "Amir Ateş",
-    "lyricist": "",
+    "lyricist": "Yunus Emre",
     "makam": "Segah",
     "form": "İlahi",
-    "usul": "Nim Sofyan",
+    "usul": "Sofyan",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -15597,12 +15653,12 @@
   },
   {
     "id": "000474",
-    "title": "Lebbeyk Allahümme Lebbeyk",
+    "title": "Rebiulevveldir veladet mahı",
     "composer": "Amir Ateş",
-    "lyricist": "",
+    "lyricist": "Yunus Emre",
     "makam": "Segah",
     "form": "İlahi",
-    "usul": "Nim Sofyan",
+    "usul": "Sofyan",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -15611,12 +15667,12 @@
   },
   {
     "id": "000475",
-    "title": "Rebiulevveldir veladet mahı",
+    "title": "Sakın terk-i edebden kuy-i mahbub-i Hüda’dır bu",
     "composer": "Amir Ateş",
-    "lyricist": "Yunus Emre",
+    "lyricist": "Nabi",
     "makam": "Segah",
     "form": "İlahi",
-    "usul": "Sofyan",
+    "usul": "Düyek",
     "variation": "v1",
     "pageCount": 1,
     "pages": [
@@ -15625,12 +15681,12 @@
   },
   {
     "id": "000475",
-    "title": "Rebiulevveldir veladet mahı",
+    "title": "Sakın terk-i edebden kuy-i mahbub-i Hüda’dır bu",
     "composer": "Amir Ateş",
-    "lyricist": "Yunus Emre",
+    "lyricist": "Nabi",
     "makam": "Segah",
     "form": "İlahi",
-    "usul": "Sofyan",
+    "usul": "Düyek",
     "variation": "v2",
     "pageCount": 1,
     "pages": [
@@ -15638,35 +15694,7 @@
     ]
   },
   {
-    "id": "000476",
-    "title": "Sakın terk-i edebden kuy-i mahbub-i Hüda’dır bu",
-    "composer": "Amir Ateş",
-    "lyricist": "Nabi",
-    "makam": "Segah",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v1",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000476/v1/1.webp"
-    ]
-  },
-  {
-    "id": "000476",
-    "title": "Sakın terk-i edebden kuy-i mahbub-i Hüda’dır bu",
-    "composer": "Amir Ateş",
-    "lyricist": "Nabi",
-    "makam": "Segah",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v2",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000476/v2/1.webp"
-    ]
-  },
-  {
-    "id": "000476",
+    "id": "000475",
     "title": "Sakın terk-i edebden kuy-i mahbub-i Hüda’dır bu",
     "composer": "Amir Ateş",
     "lyricist": "Nabi",
@@ -15676,11 +15704,11 @@
     "variation": "v3",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000476/v3/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000475/v3/1.webp"
     ]
   },
   {
-    "id": "000477",
+    "id": "000476",
     "title": "Seherde bülbülü gördüm iniler",
     "composer": "Amir Ateş",
     "lyricist": "Üftade Mehmet Muhyittin",
@@ -15690,15 +15718,57 @@
     "variation": "v1",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000477/v1/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000476/v1/1.webp"
     ]
   },
   {
-    "id": "000478",
+    "id": "000477",
     "title": "Vurulup tertemiz alnından uzanmış yatıyor",
     "composer": "Amir Ateş",
     "lyricist": "Mehmet Akif Ersoy",
     "makam": "Segah",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v1",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000477/v1/1.webp"
+    ]
+  },
+  {
+    "id": "000477",
+    "title": "Vurulup tertemiz alnından uzanmış yatıyor",
+    "composer": "Amir Ateş",
+    "lyricist": "Mehmet Akif Ersoy",
+    "makam": "Segah",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000477/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000477",
+    "title": "Vurulup tertemiz alnından uzanmış yatıyor",
+    "composer": "Amir Ateş",
+    "lyricist": "Mehmet Akif Ersoy",
+    "makam": "Segah",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v3",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000477/v3/1.webp"
+    ]
+  },
+  {
+    "id": "000478",
+    "title": "Bütün dünyaya küskündüm",
+    "composer": "Amir Ateş",
+    "lyricist": "Mehmet Akif Ersoy",
+    "makam": "Uşşak",
     "form": "İlahi",
     "usul": "Düyek",
     "variation": "v1",
@@ -15709,10 +15779,10 @@
   },
   {
     "id": "000478",
-    "title": "Vurulup tertemiz alnından uzanmış yatıyor",
+    "title": "Bütün dünyaya küskündüm",
     "composer": "Amir Ateş",
     "lyricist": "Mehmet Akif Ersoy",
-    "makam": "Segah",
+    "makam": "Uşşak",
     "form": "İlahi",
     "usul": "Düyek",
     "variation": "v2",
@@ -15723,10 +15793,10 @@
   },
   {
     "id": "000478",
-    "title": "Vurulup tertemiz alnından uzanmış yatıyor",
+    "title": "Bütün dünyaya küskündüm",
     "composer": "Amir Ateş",
     "lyricist": "Mehmet Akif Ersoy",
-    "makam": "Segah",
+    "makam": "Uşşak",
     "form": "İlahi",
     "usul": "Düyek",
     "variation": "v3",
@@ -15736,10 +15806,24 @@
     ]
   },
   {
-    "id": "000479",
+    "id": "000478",
     "title": "Bütün dünyaya küskündüm",
     "composer": "Amir Ateş",
     "lyricist": "Mehmet Akif Ersoy",
+    "makam": "Uşşak",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v4",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000478/v4/1.webp"
+    ]
+  },
+  {
+    "id": "000479",
+    "title": "Bütün kuvvet kudret sende garip bir acizim ben de",
+    "composer": "Amir Ateş",
+    "lyricist": "Ali Çoşkun",
     "makam": "Uşşak",
     "form": "İlahi",
     "usul": "Düyek",
@@ -15751,9 +15835,9 @@
   },
   {
     "id": "000479",
-    "title": "Bütün dünyaya küskündüm",
+    "title": "Bütün kuvvet kudret sende garip bir acizim ben de",
     "composer": "Amir Ateş",
-    "lyricist": "Mehmet Akif Ersoy",
+    "lyricist": "Ali Çoşkun",
     "makam": "Uşşak",
     "form": "İlahi",
     "usul": "Düyek",
@@ -15764,63 +15848,7 @@
     ]
   },
   {
-    "id": "000479",
-    "title": "Bütün dünyaya küskündüm",
-    "composer": "Amir Ateş",
-    "lyricist": "Mehmet Akif Ersoy",
-    "makam": "Uşşak",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v3",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000479/v3/1.webp"
-    ]
-  },
-  {
-    "id": "000479",
-    "title": "Bütün dünyaya küskündüm",
-    "composer": "Amir Ateş",
-    "lyricist": "Mehmet Akif Ersoy",
-    "makam": "Uşşak",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v4",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000479/v4/1.webp"
-    ]
-  },
-  {
     "id": "000480",
-    "title": "Bütün kuvvet kudret sende garip bir acizim ben de",
-    "composer": "Amir Ateş",
-    "lyricist": "Ali Çoşkun",
-    "makam": "Uşşak",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v1",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000480/v1/1.webp"
-    ]
-  },
-  {
-    "id": "000480",
-    "title": "Bütün kuvvet kudret sende garip bir acizim ben de",
-    "composer": "Amir Ateş",
-    "lyricist": "Ali Çoşkun",
-    "makam": "Uşşak",
-    "form": "İlahi",
-    "usul": "Düyek",
-    "variation": "v2",
-    "pageCount": 1,
-    "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000480/v2/1.webp"
-    ]
-  },
-  {
-    "id": "000481",
     "title": "Cürmüm ile geldim sana",
     "composer": "Amir Ateş",
     "lyricist": "Hüseyin top",
@@ -15830,11 +15858,11 @@
     "variation": "v1",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000481/v1/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000480/v1/1.webp"
     ]
   },
   {
-    "id": "000482",
+    "id": "000481",
     "title": "Merhaba ey Fahr-i Alem merhaba",
     "composer": "Amir Ateş",
     "lyricist": "Amir Ateş",
@@ -15844,11 +15872,11 @@
     "variation": "v1",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000482/v1/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000481/v1/1.webp"
     ]
   },
   {
-    "id": "000482",
+    "id": "000481",
     "title": "Merhaba ey Fahr-i Alem merhaba",
     "composer": "Amir Ateş",
     "lyricist": "Amir Ateş",
@@ -15858,11 +15886,11 @@
     "variation": "V2",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000482/V2/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000481/V2/1.webp"
     ]
   },
   {
-    "id": "000483",
+    "id": "000482",
     "title": "Ya Rab bizi kahretme helak eyleme amin",
     "composer": "Amir Ateş",
     "lyricist": "Mehmet Akif Ersoy",
@@ -15872,11 +15900,11 @@
     "variation": "v1",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000483/v1/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000482/v1/1.webp"
     ]
   },
   {
-    "id": "000483",
+    "id": "000482",
     "title": "Ya Rab bizi kahretme helak eyleme amin",
     "composer": "Amir Ateş",
     "lyricist": "Mehmet Akif Ersoy",
@@ -15886,11 +15914,11 @@
     "variation": "v2",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000483/v2/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000482/v2/1.webp"
     ]
   },
   {
-    "id": "000483",
+    "id": "000482",
     "title": "Ya Rab bizi kahretme helak eyleme amin",
     "composer": "Amir Ateş",
     "lyricist": "Mehmet Akif Ersoy",
@@ -15900,11 +15928,11 @@
     "variation": "v3",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000483/v3/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000482/v3/1.webp"
     ]
   },
   {
-    "id": "000483",
+    "id": "000482",
     "title": "Ya Rab bizi kahretme helak eyleme amin",
     "composer": "Amir Ateş",
     "lyricist": "Mehmet Akif Ersoy",
@@ -15914,7 +15942,49 @@
     "variation": "v4",
     "pageCount": 1,
     "pages": [
-      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000483/v4/1.webp"
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000482/v4/1.webp"
+    ]
+  },
+  {
+    "id": "000483",
+    "title": "Habib-i Kibriya bab-ı recasın Ya Rasulallah",
+    "composer": "Ali Kemal Belviranlı",
+    "lyricist": "Ali Ulvi Kurucu",
+    "makam": "Uşşak",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v1",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000483/v1/1.webp"
+    ]
+  },
+  {
+    "id": "000483",
+    "title": "Habib-i Kibriya bab-ı recasın Ya Rasulallah",
+    "composer": "Ali Kemal Belviranlı",
+    "lyricist": "Ali Ulvi Kurucu",
+    "makam": "Uşşak",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v2",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000483/v2/1.webp"
+    ]
+  },
+  {
+    "id": "000483",
+    "title": "Habib-i Kibriya bab-ı recasın Ya Rasulallah",
+    "composer": "Ali Kemal Belviranlı",
+    "lyricist": "Ali Ulvi Kurucu",
+    "makam": "Uşşak",
+    "form": "İlahi",
+    "usul": "Düyek",
+    "variation": "v3",
+    "pageCount": 1,
+    "pages": [
+      "https://raw.githubusercontent.com/osmankalan/nota-arsivi/main/notes/000483/v3/1.webp"
     ]
   }
 ]
